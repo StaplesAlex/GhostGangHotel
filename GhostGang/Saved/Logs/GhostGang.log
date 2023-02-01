@@ -1226,3 +1226,55 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.02.01-16.14.34:750][102]LogPlayLevel: Display: Destroying online subsystem :Context_9
 [2023.02.01-16.14.35:502][186]LogBlueprintUserMessages: [Player_C_0] 
 [2023.02.01-16.14.35:502][186]LogBlueprintUserMessages: [Player_C_0] 
+[2023.02.01-16.26.39:343][629]LogUObjectHash: Compacting FUObjectHashTables data took   6.71ms
+[2023.02.01-16.30.03:017][513]LogLinker: Warning: [AssetLog] F:\github\GhostGang\GhostGang\Content\GhostGang\BP_npcTest.uasset: Failed to load '/Game/Experimental/Blueprints/BP_NewPlayerMan': Can't find file.
+[2023.02.01-16.30.03:017][513]LogLinker: Warning: [AssetLog] F:\github\GhostGang\GhostGang\Content\GhostGang\BP_npcTest.uasset: Failed to load '/Game/Experimental/Blueprints/BP_NewPlayerMan': Can't find file.
+[2023.02.01-16.30.03:017][513]LogLinker: Warning: [AssetLog] F:\github\GhostGang\GhostGang\Content\GhostGang\BP_npcTest.uasset: Failed to load '/Game/Experimental/Blueprints/BP_PlayerCameraThing': Can't find file.
+[2023.02.01-16.30.03:017][513]LogLinker: Warning: [AssetLog] F:\github\GhostGang\GhostGang\Content\GhostGang\BP_npcTest.uasset: Failed to load '/Game/Experimental/Blueprints/BP_PlayerCameraThing': Can't find file.
+[2023.02.01-16.30.03:018][513]LogLinker: Warning: [AssetLog] F:\github\GhostGang\GhostGang\Content\GhostGang\BP_npcTest.uasset: Failed to load '/Game/Experimental/Blueprints/BP_NewPlayerMan': Can't find file.
+[2023.02.01-16.30.03:019][513]LogLinker: Warning: [AssetLog] F:\github\GhostGang\GhostGang\Content\GhostGang\BP_npcTest.uasset: Failed to load '/Game/Experimental/Blueprints/BP_PlayerCameraThing': Can't find file.
+[2023.02.01-16.30.03:022][513]LogLinker: Warning: Failed to load '/Game/Experimental/Blueprints/BP_PlayerCameraThing': Can't find file.
+[2023.02.01-16.30.03:022][513]LogLinker: Warning: Failed to load '/Game/Experimental/Blueprints/BP_NewPlayerMan': Can't find file.
+[2023.02.01-16.30.03:022][513]LogLinker: Warning: Failed to load '/Game/Experimental/Blueprints/BP_PlayerCameraThing': Can't find file.
+[2023.02.01-16.30.03:022][513]LogLinker: Warning: Failed to load '/Game/Experimental/Blueprints/BP_NewPlayerMan': Can't find file.
+[2023.02.01-16.30.03:022][513]LogLinker: Warning: Failed to load '/Game/Experimental/Blueprints/BP_PlayerCameraThing': Can't find file.
+[2023.02.01-16.30.03:025][513]LogLinker: Warning: [AssetLog] F:\github\GhostGang\GhostGang\Content\GhostGang\BP_npcTest.uasset: Failed to load '/Game/Experimental/Blueprints/BP_NewPlayerMan': Can't find file.
+[2023.02.01-16.30.03:025][513]LoadErrors: Failed to load /Game/Experimental/Blueprints/BP_NewPlayerMan.BP_NewPlayerMan_C Referenced by K2Node_CallFunction_6
+[2023.02.01-16.30.03:025][513]LogLinker: Warning: [AssetLog] F:\github\GhostGang\GhostGang\Content\GhostGang\BP_npcTest.uasset: Failed to load '/Game/Experimental/Blueprints/BP_PlayerCameraThing': Can't find file.
+[2023.02.01-16.30.03:025][513]LoadErrors: Failed to load /Game/Experimental/Blueprints/BP_PlayerCameraThing.BP_PlayerCameraThing_C Referenced by K2Node_DynamicCast_0
+[2023.02.01-16.30.03:026][513]LogLinker: Warning: [AssetLog] F:\github\GhostGang\GhostGang\Content\GhostGang\BP_npcTest.uasset: Failed to load '/Game/Experimental/Blueprints/BP_PlayerCameraThing': Can't find file.
+[2023.02.01-16.30.03:026][513]LogLinker: Warning: [AssetLog] F:\github\GhostGang\GhostGang\Content\GhostGang\BP_npcTest.uasset: Failed to load '/Game/Experimental/Blueprints/BP_PlayerCameraThing': Can't find file.
+[2023.02.01-16.30.03:026][513]LoadErrors: Failed to load /Game/Experimental/Blueprints/BP_PlayerCameraThing.BP_PlayerCameraThing_C Referenced by K2Node_CallFunction_9
+[2023.02.01-16.30.03:026][513]LogLinker: Warning: [AssetLog] F:\github\GhostGang\GhostGang\Content\GhostGang\BP_npcTest.uasset: Failed to load '/Game/Experimental/Blueprints/BP_PlayerCameraThing': Can't find file.
+[2023.02.01-16.30.03:069][513]LogBlueprint: Error: [AssetLog] F:\github\GhostGang\GhostGang\Content\GhostGang\BP_npcTest.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Loser . Please refresh node or break links to remove pin.
+[2023.02.01-16.30.03:069][513]LogBlueprint: Error: [AssetLog] F:\github\GhostGang\GhostGang\Content\GhostGang\BP_npcTest.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Loser . Please refresh node or break links to remove pin.
+[2023.02.01-16.30.03:069][513]LogBlueprint: Error: [AssetLog] F:\github\GhostGang\GhostGang\Content\GhostGang\BP_npcTest.uasset: [Compiler] In use pin  Target  no longer exists on node  Loser . Please refresh node or break links to remove pin.
+[2023.02.01-16.30.03:069][513]LogBlueprint: Error: [AssetLog] F:\github\GhostGang\GhostGang\Content\GhostGang\BP_npcTest.uasset: [Compiler] Could not find a function named "Loser" in 'BP_npcTest'.
+Make sure 'BP_npcTest' has been compiled for  Loser
+[2023.02.01-16.30.03:087][513]LogBlueprint: Error: [AssetLog] F:\github\GhostGang\GhostGang\Content\GhostGang\BP_npcTest.uasset: [Compiler] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2023.02.01-16.30.03:087][513]LogBlueprint: Error: [AssetLog] F:\github\GhostGang\GhostGang\Content\GhostGang\BP_npcTest.uasset: [Compiler] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2023.02.01-16.30.03:087][513]LogBlueprint: Error: [AssetLog] F:\github\GhostGang\GhostGang\Content\GhostGang\BP_npcTest.uasset: [Compiler] In use pin  As BP Player Camera Thing  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2023.02.01-16.30.08:286][891]Cmd: DELETE
+[2023.02.01-16.30.08:286][891]Cmd: ACTOR DELETE
+[2023.02.01-16.30.08:288][891]LogEditorActor: Deleted Actor: BP_npcTest_C
+[2023.02.01-16.30.08:341][891]LogUObjectHash: Compacting FUObjectHashTables data took   4.54ms
+[2023.02.01-16.30.08:346][891]LogEditorActor: Deleted 1 Actors (0.059 secs)
+[2023.02.01-16.30.09:136][942]PIE: Warning: Constraint in '/Engine/Transient.World_9:PersistentLevel.BP_NewPlayerMan_C_0.HeadToBody' attempting to create a joint between objects that are both static.  No joint created.
+[2023.02.01-16.30.09:137][942]PIE: Warning: Constraint in '/Engine/Transient.World_9:PersistentLevel.BP_NewPlayerMan_C_0.BodyToCharacter' attempting to create a joint between objects that are both static.  No joint created.
+[2023.02.01-16.30.10:792][ 65]Cmd: DELETE
+[2023.02.01-16.30.10:792][ 65]Cmd: ACTOR DELETE
+[2023.02.01-16.30.10:794][ 65]LogEditorActor: Deleted Actor: BP_NewPlayerMan_C
+[2023.02.01-16.30.10:844][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   4.99ms
+[2023.02.01-16.30.10:847][ 65]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2023.02.01-16.30.12:366][170]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GhostGang/Level01" FILE="../../../../github/GhostGang/GhostGang/Content/GhostGang/Level01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.01-16.30.12:411][170]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.02.01-16.30.12:423][170]LogSavePackage: Moving '../../../../github/GhostGang/GhostGang/Saved/Level0188144604420E22F9F4DDB3AEF26D4C12.tmp' to '../../../../github/GhostGang/GhostGang/Content/GhostGang/Level01.umap'
+[2023.02.01-16.30.12:463][170]AssetCheck: New page: Asset Save: Level01
+[2023.02.01-16.30.12:463][170]LogContentValidation: Display: Validating World /Game/GhostGang/Level01.Level01
+[2023.02.01-16.30.13:013][202]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2023.02.01-16.30.18:464][652]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GhostGang/Level01" FILE="../../../../github/GhostGang/GhostGang/Content/GhostGang/Level01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.01-16.30.18:509][652]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.02.01-16.30.18:522][652]LogSavePackage: Moving '../../../../github/GhostGang/GhostGang/Saved/Level018B20314F4A71BAC9C8B4F7A26FCA2443.tmp' to '../../../../github/GhostGang/GhostGang/Content/GhostGang/Level01.umap'
+[2023.02.01-16.30.18:552][652]AssetCheck: New page: Asset Save: Level01
+[2023.02.01-16.30.18:552][652]LogContentValidation: Display: Validating World /Game/GhostGang/Level01.Level01
+[2023.02.01-16.30.19:179][686]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
