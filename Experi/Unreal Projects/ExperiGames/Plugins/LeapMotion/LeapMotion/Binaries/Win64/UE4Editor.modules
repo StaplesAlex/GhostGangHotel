@@ -1,9 +1,0 @@
-{
-	"BuildId": "17155196",
-	"Modules": 
-	{
-		"BodyState": "UE4Editor-BodyState.dll",
-		"LeapMotion": "UE4Editor-LeapMotion.dll",
-		"LeapMotionEditor": "UE4Editor-LeapMotionEditor.dll"
-	}
-}
