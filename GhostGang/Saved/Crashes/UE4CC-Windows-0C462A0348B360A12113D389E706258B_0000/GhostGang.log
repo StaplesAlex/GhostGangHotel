@@ -1,0 +1,1904 @@
+﻿Log file open, 02/02/23 02:08:26
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: GhostGang
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.478741
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin UltraleapTracking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Athlon Gold 3150U with Radeon Graphics     , GPU: AMD Radeon(TM) Graphics
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: D:/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogLinker: AddRedirectList(D:/GhostGangHotel/GhostGang/Saved/Config/Windows/UltraleapTracking.ini) has substring redirect /LeapMotion, these are very slow and should be resolved as soon as possible!
+LogLinker: AddRedirectList(D:/GhostGangHotel/GhostGang/Saved/Config/Windows/UltraleapTracking.ini) has substring redirect /Script/LeapMotion, these are very slow and should be resolved as soon as possible!
+LogLinker: AddRedirectList(D:/GhostGangHotel/GhostGang/Saved/Config/Windows/UltraleapTracking.ini) has substring redirect /Script/LeapMotion, these are very slow and should be resolved as soon as possible!
+LogLinker: AddRedirectList(D:/GhostGangHotel/GhostGang/Saved/Config/Windows/UltraleapTracking.ini) has substring redirect /Script/LeapMotion, these are very slow and should be resolved as soon as possible!
+LogLinker: AddRedirectList(D:/GhostGangHotel/GhostGang/Saved/Config/Windows/UltraleapTracking.ini) has substring redirect /Script/LeapMotion, these are very slow and should be resolved as soon as possible!
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/GhostGangHotel/GhostGang/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2023.02.02-02.08.27:217][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2023.02.02-02.08.27:217][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2023.02.02-02.08.27:217][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/GhostGangHotel/GhostGang/Saved/Config/Windows/Engine.ini]
+[2023.02.02-02.08.27:217][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2023.02.02-02.08.27:217][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/GhostGangHotel/GhostGang/Saved/Config/Windows/Engine.ini]
+[2023.02.02-02.08.27:217][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/GhostGangHotel/GhostGang/Saved/Config/Windows/Engine.ini]
+[2023.02.02-02.08.27:217][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2023.02.02-02.08.27:217][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2023.02.02-02.08.27:217][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2023.02.02-02.08.27:217][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2023.02.02-02.08.27:217][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2023.02.02-02.08.27:217][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2023.02.02-02.08.27:217][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2023.02.02-02.08.27:217][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2023.02.02-02.08.27:217][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2023.02.02-02.08.27:217][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2023.02.02-02.08.27:217][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2023.02.02-02.08.27:217][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2023.02.02-02.08.27:217][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2023.02.02-02.08.27:217][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2023.02.02-02.08.27:217][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/GhostGangHotel/GhostGang/Saved/Config/Windows/Engine.ini]
+[2023.02.02-02.08.27:217][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2023.02.02-02.08.27:217][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2023.02.02-02.08.27:217][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2023.02.02-02.08.27:217][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2023.02.02-02.08.27:217][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2023.02.02-02.08.27:217][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2023.02.02-02.08.27:217][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2023.02.02-02.08.27:217][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2023.02.02-02.08.27:217][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2023.02.02-02.08.27:217][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2023.02.02-02.08.27:217][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2023.02.02-02.08.27:217][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2023.02.02-02.08.27:217][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2023.02.02-02.08.27:217][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2023.02.02-02.08.27:217][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/GhostGangHotel/GhostGang/Saved/Config/Windows/Engine.ini]
+[2023.02.02-02.08.27:217][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/GhostGangHotel/GhostGang/Saved/Config/Windows/Engine.ini]
+[2023.02.02-02.08.27:223][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/GhostGangHotel/GhostGang/Saved/Config/Windows/Scalability.ini]
+[2023.02.02-02.08.27:223][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.02.02-02.08.27:223][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.02.02-02.08.27:223][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/GhostGangHotel/GhostGang/Saved/Config/Windows/Scalability.ini]
+[2023.02.02-02.08.27:223][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.02.02-02.08.27:223][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/GhostGangHotel/GhostGang/Saved/Config/Windows/Scalability.ini]
+[2023.02.02-02.08.27:223][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.02.02-02.08.27:223][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.02.02-02.08.27:223][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.02.02-02.08.27:223][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.02.02-02.08.27:223][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.02.02-02.08.27:223][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.02.02-02.08.27:223][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.02.02-02.08.27:223][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.02.02-02.08.27:223][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.02.02-02.08.27:223][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.02.02-02.08.27:223][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.02.02-02.08.27:223][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.02.02-02.08.27:223][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.02.02-02.08.27:223][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.02.02-02.08.27:223][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.02.02-02.08.27:223][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.02.02-02.08.27:223][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.02.02-02.08.27:223][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.02.02-02.08.27:223][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/GhostGangHotel/GhostGang/Saved/Config/Windows/Scalability.ini]
+[2023.02.02-02.08.27:223][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.02.02-02.08.27:224][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.02.02-02.08.27:224][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.02.02-02.08.27:224][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.02.02-02.08.27:224][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.02.02-02.08.27:224][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.02.02-02.08.27:224][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.02.02-02.08.27:224][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.02.02-02.08.27:224][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.02.02-02.08.27:224][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.02.02-02.08.27:224][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.02.02-02.08.27:224][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.02.02-02.08.27:224][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.02.02-02.08.27:224][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.02.02-02.08.27:224][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.02.02-02.08.27:224][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.02.02-02.08.27:224][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.02.02-02.08.27:224][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.02.02-02.08.27:224][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.02.02-02.08.27:224][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.02.02-02.08.27:224][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.02.02-02.08.27:224][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.02.02-02.08.27:224][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.02.02-02.08.27:224][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.02.02-02.08.27:224][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.02.02-02.08.27:224][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.02.02-02.08.27:224][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.02.02-02.08.27:224][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.02.02-02.08.27:224][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.02.02-02.08.27:224][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.02.02-02.08.27:225][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/GhostGangHotel/GhostGang/Saved/Config/Windows/Scalability.ini]
+[2023.02.02-02.08.27:225][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.02.02-02.08.27:225][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.02.02-02.08.27:225][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.02.02-02.08.27:225][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.02.02-02.08.27:225][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.02.02-02.08.27:225][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.02.02-02.08.27:225][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.02.02-02.08.27:225][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.02.02-02.08.27:225][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.02.02-02.08.27:225][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/GhostGangHotel/GhostGang/Saved/Config/Windows/Scalability.ini]
+[2023.02.02-02.08.27:225][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.02.02-02.08.27:225][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.02.02-02.08.27:225][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.02.02-02.08.27:225][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.02.02-02.08.27:225][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.02.02-02.08.27:225][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.02.02-02.08.27:225][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.02.02-02.08.27:225][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.02.02-02.08.27:225][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.02.02-02.08.27:225][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.02.02-02.08.27:225][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.02.02-02.08.27:225][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.02.02-02.08.27:225][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.02.02-02.08.27:225][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.02.02-02.08.27:225][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.02.02-02.08.27:225][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.02.02-02.08.27:225][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.02.02-02.08.27:225][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.02.02-02.08.27:225][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.02.02-02.08.27:225][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.02.02-02.08.27:225][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.02.02-02.08.27:225][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.02.02-02.08.27:225][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.02.02-02.08.27:225][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.02.02-02.08.27:225][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.02.02-02.08.27:225][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.02.02-02.08.27:225][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.02.02-02.08.27:225][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2023.02.02-02.08.27:225][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/GhostGangHotel/GhostGang/Saved/Config/Windows/Scalability.ini]
+[2023.02.02-02.08.27:225][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.02.02-02.08.27:225][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.02.02-02.08.27:225][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/GhostGangHotel/GhostGang/Saved/Config/Windows/Scalability.ini]
+[2023.02.02-02.08.27:225][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.02.02-02.08.27:225][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.02.02-02.08.27:225][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.02.02-02.08.27:226][  0]LogInit: Selected Device Profile: [Windows]
+[2023.02.02-02.08.27:226][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2023.02.02-02.08.27:226][  0]LogHAL: Display: Platform has ~ 14 GB [14913122304 / 17179869184 / 14], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.02.02-02.08.27:226][  0]LogInit: Going up to parent DeviceProfile []
+[2023.02.02-02.08.27:226][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/GhostGangHotel/GhostGang/Saved/Config/Windows/Scalability.ini]
+[2023.02.02-02.08.27:226][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.02.02-02.08.27:226][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.02.02-02.08.27:226][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/GhostGangHotel/GhostGang/Saved/Config/Windows/Scalability.ini]
+[2023.02.02-02.08.27:226][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.02.02-02.08.27:226][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/GhostGangHotel/GhostGang/Saved/Config/Windows/Scalability.ini]
+[2023.02.02-02.08.27:226][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.02.02-02.08.27:226][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.02.02-02.08.27:226][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.02.02-02.08.27:226][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.02.02-02.08.27:226][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.02.02-02.08.27:226][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.02.02-02.08.27:226][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.02.02-02.08.27:226][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.02.02-02.08.27:226][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.02.02-02.08.27:226][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.02.02-02.08.27:226][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.02.02-02.08.27:226][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.02.02-02.08.27:226][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.02.02-02.08.27:226][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.02.02-02.08.27:226][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.02.02-02.08.27:226][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.02.02-02.08.27:226][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.02.02-02.08.27:226][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.02.02-02.08.27:226][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/GhostGangHotel/GhostGang/Saved/Config/Windows/Scalability.ini]
+[2023.02.02-02.08.27:226][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.02.02-02.08.27:226][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.02.02-02.08.27:226][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.02.02-02.08.27:227][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.02.02-02.08.27:227][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.02.02-02.08.27:227][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.02.02-02.08.27:227][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.02.02-02.08.27:227][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.02.02-02.08.27:227][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.02.02-02.08.27:227][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.02.02-02.08.27:227][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.02.02-02.08.27:227][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.02.02-02.08.27:227][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.02.02-02.08.27:227][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.02.02-02.08.27:227][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.02.02-02.08.27:227][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.02.02-02.08.27:227][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.02.02-02.08.27:227][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.02.02-02.08.27:227][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.02.02-02.08.27:227][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.02.02-02.08.27:227][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.02.02-02.08.27:227][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.02.02-02.08.27:227][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.02.02-02.08.27:227][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.02.02-02.08.27:227][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.02.02-02.08.27:227][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.02.02-02.08.27:227][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.02.02-02.08.27:227][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.02.02-02.08.27:227][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.02.02-02.08.27:227][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.02.02-02.08.27:227][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/GhostGangHotel/GhostGang/Saved/Config/Windows/Scalability.ini]
+[2023.02.02-02.08.27:227][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.02.02-02.08.27:227][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.02.02-02.08.27:227][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.02.02-02.08.27:228][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.02.02-02.08.27:228][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.02.02-02.08.27:228][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.02.02-02.08.27:228][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.02.02-02.08.27:228][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.02.02-02.08.27:228][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.02.02-02.08.27:228][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/GhostGangHotel/GhostGang/Saved/Config/Windows/Scalability.ini]
+[2023.02.02-02.08.27:228][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.02.02-02.08.27:228][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.02.02-02.08.27:228][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.02.02-02.08.27:228][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.02.02-02.08.27:228][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.02.02-02.08.27:228][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.02.02-02.08.27:228][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.02.02-02.08.27:228][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.02.02-02.08.27:228][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.02.02-02.08.27:228][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.02.02-02.08.27:228][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.02.02-02.08.27:228][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.02.02-02.08.27:228][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.02.02-02.08.27:228][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.02.02-02.08.27:228][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.02.02-02.08.27:228][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.02.02-02.08.27:228][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.02.02-02.08.27:228][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.02.02-02.08.27:228][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.02.02-02.08.27:228][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.02.02-02.08.27:228][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.02.02-02.08.27:228][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.02.02-02.08.27:228][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.02.02-02.08.27:228][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.02.02-02.08.27:228][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.02.02-02.08.27:228][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.02.02-02.08.27:228][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.02.02-02.08.27:228][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2023.02.02-02.08.27:228][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/GhostGangHotel/GhostGang/Saved/Config/Windows/Scalability.ini]
+[2023.02.02-02.08.27:228][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.02.02-02.08.27:228][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.02.02-02.08.27:228][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/GhostGangHotel/GhostGang/Saved/Config/Windows/Scalability.ini]
+[2023.02.02-02.08.27:228][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.02.02-02.08.27:228][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.02.02-02.08.27:228][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.02.02-02.08.27:228][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.02.02-02.08.27:229][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2023.02.02-02.08.27:229][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2023.02.02-02.08.27:229][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2023.02.02-02.08.27:229][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/GhostGangHotel/GhostGang/Saved/Config/Windows/Engine.ini]
+[2023.02.02-02.08.27:229][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/GhostGangHotel/GhostGang/Saved/Config/Windows/Editor.ini]
+[2023.02.02-02.08.27:229][  0]LogInit: Computer: DESKTOP-S4OV2M6
+[2023.02.02-02.08.27:229][  0]LogInit: User: albee
+[2023.02.02-02.08.27:229][  0]LogInit: CPU Page size=4096, Cores=2
+[2023.02.02-02.08.27:229][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.02.02-02.08.27:229][  0]LogMemory: Memory total: Physical=13.9GB (14GB approx)
+[2023.02.02-02.08.27:229][  0]LogMemory: Platform Memory Stats for Windows
+[2023.02.02-02.08.27:229][  0]LogMemory: Process Physical Memory: 143.47 MB used, 143.47 MB peak
+[2023.02.02-02.08.27:229][  0]LogMemory: Process Virtual Memory: 127.32 MB used, 127.32 MB peak
+[2023.02.02-02.08.27:229][  0]LogMemory: Physical Memory: 6124.78 MB used,  8097.48 MB free, 14222.26 MB total
+[2023.02.02-02.08.27:229][  0]LogMemory: Virtual Memory: 134201920.00 MB used,  15811.44 MB free, 134217728.00 MB total
+[2023.02.02-02.08.27:238][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.02.02-02.08.27:278][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2023.02.02-02.08.27:281][  0]LogInit: Using OS detected language (en-US).
+[2023.02.02-02.08.27:281][  0]LogInit: Using OS detected locale (en-GB).
+[2023.02.02-02.08.27:284][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2023.02.02-02.08.27:660][  0]LogInit: Setting process to per monitor DPI aware
+[2023.02.02-02.08.27:681][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.02.02-02.08.27:714][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.02.02-02.08.27:714][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.02.02-02.08.28:004][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2023.02.02-02.08.28:011][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.02.02-02.08.28:011][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2023.02.02-02.08.28:011][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2023.02.02-02.08.28:011][  0]LogD3D11RHI: D3D11 adapters:
+[2023.02.02-02.08.28:127][  0]LogD3D11RHI:    0. 'AMD Radeon(TM) Graphics' (Feature Level 11_0)
+[2023.02.02-02.08.28:127][  0]LogD3D11RHI:       2033/0/7111 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2023.02.02-02.08.28:131][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2023.02.02-02.08.28:131][  0]LogD3D11RHI:       0/0/7111 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2023.02.02-02.08.28:131][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2023.02.02-02.08.28:131][  0]LogD3D11RHI:     Description : AMD Radeon(TM) Graphics
+[2023.02.02-02.08.28:131][  0]LogD3D11RHI:     VendorId    : 1002
+[2023.02.02-02.08.28:131][  0]LogD3D11RHI:     DeviceId    : 15d8
+[2023.02.02-02.08.28:131][  0]LogD3D11RHI:     SubSysId    : a121028
+[2023.02.02-02.08.28:131][  0]LogD3D11RHI:     Revision    : 00ce
+[2023.02.02-02.08.28:131][  0]LogD3D11RHI:     DedicatedVideoMemory : 2132467712 bytes
+[2023.02.02-02.08.28:131][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.02.02-02.08.28:131][  0]LogD3D11RHI:     SharedSystemMemory : 7456561152 bytes
+[2023.02.02-02.08.28:131][  0]LogD3D11RHI:     AdapterLuid : 0 50794
+[2023.02.02-02.08.28:141][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2023.02.02-02.08.28:141][  0]LogD3D11RHI:     GPU DeviceId: 0x15d8 (for the marketing name, search the web for "GPU Device Id")
+[2023.02.02-02.08.28:142][  0]LogWindows: EnumDisplayDevices:
+[2023.02.02-02.08.28:142][  0]LogWindows:    0. 'AMD Radeon(TM) Graphics' (P:1 D:1)
+[2023.02.02-02.08.28:143][  0]LogWindows:    1. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2023.02.02-02.08.28:143][  0]LogWindows:    2. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2023.02.02-02.08.28:144][  0]LogWindows:    3. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2023.02.02-02.08.28:144][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2023.02.02-02.08.28:144][  0]LogD3D11RHI:     Adapter Name: AMD Radeon(TM) Graphics
+[2023.02.02-02.08.28:144][  0]LogD3D11RHI:   Driver Version: AMD Software: Adrenalin Edition 22.20.28 (internal:31.0.12028.2, unified:31.0.12028.2)
+[2023.02.02-02.08.28:144][  0]LogD3D11RHI:      Driver Date: 8-30-2022
+[2023.02.02-02.08.28:144][  0]LogRHI: Texture pool is 5902 MB (70% of 8431 MB)
+[2023.02.02-02.08.28:170][  0]LogD3D11RHI: Creating D3DDevice with AMD AGS, using adapter:
+[2023.02.02-02.08.28:170][  0]LogD3D11RHI:     Description : AMD Radeon(TM) Graphics
+[2023.02.02-02.08.28:170][  0]LogD3D11RHI:     VendorId    : 1002
+[2023.02.02-02.08.28:170][  0]LogD3D11RHI:     DeviceId    : 15d8
+[2023.02.02-02.08.28:170][  0]LogD3D11RHI:     SubSysId    : a121028
+[2023.02.02-02.08.28:170][  0]LogD3D11RHI:     Revision    : 00ce
+[2023.02.02-02.08.28:170][  0]LogD3D11RHI:     DedicatedVideoMemory : 2132467712 bytes
+[2023.02.02-02.08.28:170][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.02.02-02.08.28:170][  0]LogD3D11RHI:     SharedSystemMemory : 7456561152 bytes
+[2023.02.02-02.08.28:170][  0]LogD3D11RHI:     AdapterLuid : 0 50794
+[2023.02.02-02.08.28:257][  0]LogD3D11RHI: Created device via AGS, feature level 11_0, supported extensions 1fffffbf.
+[2023.02.02-02.08.28:257][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2023.02.02-02.08.28:257][  0]LogD3D11RHI: Async texture creation enabled
+[2023.02.02-02.08.28:257][  0]LogD3D11RHI: Array index from any shader is supported
+[2023.02.02-02.08.28:274][  0]LogD3D11RHI: GPU Timing Frequency: 25.000000 (Debug: 2 1)
+[2023.02.02-02.08.28:798][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2023.02.02-02.08.28:834][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.02.02-02.08.28:834][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.02.02-02.08.28:834][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.02.02-02.08.28:834][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.02.02-02.08.28:834][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.02.02-02.08.28:834][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.02.02-02.08.28:834][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.02.02-02.08.28:834][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.02.02-02.08.28:834][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.02.02-02.08.28:834][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.02.02-02.08.28:868][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.02.02-02.08.28:868][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.02.02-02.08.28:884][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.02.02-02.08.28:893][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2023.02.02-02.08.28:901][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.02.02-02.08.28:908][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.02.02-02.08.28:926][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2023.02.02-02.08.28:935][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2023.02.02-02.08.28:944][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2023.02.02-02.08.28:983][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2023.02.02-02.08.28:984][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2023.02.02-02.08.28:998][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2023.02.02-02.08.29:010][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2023.02.02-02.08.29:019][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2023.02.02-02.08.29:028][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2023.02.02-02.08.29:047][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.02.02-02.08.29:047][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.02.02-02.08.29:061][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2023.02.02-02.08.29:068][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.02.02-02.08.29:076][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.02.02-02.08.29:083][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.02.02-02.08.29:083][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2023.02.02-02.08.29:098][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.02.02-02.08.29:156][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2023.02.02-02.08.29:221][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.02.02-02.08.29:221][  0]LogShaderCompilers: Guid format shader working directory is 9 characters bigger than the processId version (../../../../GhostGangHotel/GhostGang/Intermediate/Shaders/WorkingDirectory/16808/).
+[2023.02.02-02.08.29:221][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/albee/AppData/Local/Temp/UnrealShaderWorkingDir/84EB2FC04EEE7EA4AF310D9C99B0BEE7/'.
+[2023.02.02-02.08.29:221][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.02.02-02.08.29:221][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2023.02.02-02.08.29:221][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2023.02.02-02.08.30:693][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2023.02.02-02.08.30:793][  0]LogDerivedDataCache: Loaded boot cache 0.10s 94MB C:/Users/albee/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2023.02.02-02.08.30:793][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/albee/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2023.02.02-02.08.30:793][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../GhostGangHotel/GhostGang/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.02.02-02.08.30:793][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2023.02.02-02.08.30:793][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../GhostGangHotel/GhostGang/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.02.02-02.08.30:793][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2023.02.02-02.08.30:826][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2023.02.02-02.08.30:826][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.02.02-02.08.30:826][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2023.02.02-02.08.30:838][  0]LogDerivedDataCache: Speed tests for C:/Users/albee/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2023.02.02-02.08.30:838][  0]LogDerivedDataCache: Display: Performance to C:/Users/albee/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.06ms. RandomReadSpeed=491.85MBs, RandomWriteSpeed=90.78MBs. Assigned SpeedClass 'Local'
+[2023.02.02-02.08.30:840][  0]LogDerivedDataCache: Using Local data cache path C:/Users/albee/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.02.02-02.08.30:840][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.02.02-02.08.30:840][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2023.02.02-02.08.30:927][  0]LogSlate: Using FreeType 2.10.0
+[2023.02.02-02.08.30:928][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.02.02-02.08.30:971][  0]LogAssetRegistry: FAssetRegistry took 0.0035 seconds to start up
+[2023.02.02-02.08.31:452][  0]LogInit: Selected Device Profile: [Windows]
+[2023.02.02-02.08.31:453][  0]LogInit: Active device profile: [0000018F03292D00][0000018F04225B80 49] Windows
+[2023.02.02-02.08.31:453][  0]LogInit: Profiles: [0000018F03292D00][0000018F04225B80 49] Windows, [0000018F04A3D700][0000018F0422C180 49] WindowsNoEditor, [0000018F03292200][0000018F02D58300 49] WindowsServer, [0000018F04A3E100][0000018F03EFC480 49] WindowsClient, [0000018F03290400][0000018F77D4C600 49] IOS, [0000018F04A3F400][0000018F77D50780 49] iPadAir, [0000018F03290600][0000018F03F0E900 49] iPadAir2, [0000018F04995000][0000018F02A96B40 49] IPadPro, [0000018F04995100][0000018F04228B80 49] iPadAir3, [0000018F04A3EC00][0000018F02ACECC0 49] iPadAir4, [0000018F04995E00][0000018F02AFCE40 49] iPadMini2, [0000018F04A3C700][0000018F02B10FC0 49] iPadMini3, [0000018F04996900][0000018F02B1F140 49] iPadMini4, [0000018F04A3F800][0000018F02B232C0 49] iPadMini5, [0000018F0499C900][0000018F02B2B580 49] iPhone6, [0000018F0499CA00][0000018F02B275C0 49] iPodTouch6, [0000018F03291700][0000018F02B33880 49] iPhone7, [0000018F03290C00][0000018F02B2F8C0 49] iPodTouch7, [0000018F0499C200][0000018F02B37A40 49] iPhone5S, [0000018F04995C00][0000018F77CA1BC0 49] iPhone6Plus, [0000018F0499FA00][0000018F77CA41C0 49] iPhone6S, [0000018F04994E00][0000018F77CA8340 49] iPhone6SPlus, [0000018F0499F300][0000018F02BAA4C0 49] iPhone7Plus, [0000018F04996C00][0000018F77CCA640 49] iPhoneSE, [0000018F0499DE00][0000018F77CE67C0 49] iPhone8, [0000018F04995900][0000018F0463C940 49] iPhone8Plus, [0000018F0499DA00][0000018F056DAAC0 49] iPhoneX, [0000018F04996600][0000018F02AF8C00 49] iPhoneXS, [0000018F03290A00][0000018F057ACD40 49] iPhoneXSMax, [0000018F04997400][0000018F057FCE80 49] iPhoneXR, [0000018F03293700][0000018F05898FC0 49] iPhone11, [0000018F04994A00][0000018F06281140 49] iPhone11Pro, [0000018F03290D00][0000018F05A072C0 49] iPhone11ProMax, [0000018F04994800][0000018F05A4B440 49] iPhoneSE2, [0000018F03292300][0000018F063F55C0 49] iPhone12Mini, [0000018F04996300][0000018F06449740 49] iPhone12, [0000018F03292000][0000018F0653F8C0 49] iPhone12Pro, [0000018F04997A00][0000018F06599A40 49] iPhone12ProMax, [0000018F03290B00][0000018F77D0DBC0 49] iPadPro105, [0000018F04997C00][0000018F066301C0 49] iPadPro129, [0000018F03291A00][0000018F0610A340 49] iPadPro97, [0000018F04994F00][0000018F0615E4C0 49] iPadPro2_129, [0000018F03292100][0000018F06180640 49] iPad5, [0000018F04995400][0000018F061C27C0 49] iPad6, [0000018F03292500][0000018F75062940 49] iPad7, [0000018F04996E00][0000018F7507AAC0 49] iPad8, [0000018F03292A00][0000018F06242C40 49] iPadPro11, [0000018F04996F00][0000018F0594AD80 49] iPadPro2_11, [0000018F03290F00][0000018F0624AEC0 49] iPadPro3_129, [0000018F04995200][0000018F0624F000 49] iPadPro4_129, [0000018F03290200][0000018F06253140 49] AppleTV, [0000018F04997800][0000018F0625B2C0 49] AppleTV4K, [0000018F03292600][0000018F0625F440 49] TVOS, [0000018F04995700][0000018F062675C0 49] Mac, [0000018F03291E00][0000018F0626B740 49] MacClient, [0000018F04994200][0000018F018D58C0 49] MacNoEditor, [0000018F03293C00][0000018F01919A40 49] MacServer, [0000018F04994C00][0000018F0191DBC0 49] Linux, [0000018F03291800][0000018F019201C0 49] LinuxAArch64, [0000018F04997B00][0000018F01924340 49] LinuxNoEditor, [0000018F03293600][0000018F019284C0 49] LinuxAArch64NoEditor, [0000018F04997900][0000018F0192C640 49] LinuxClient, [0000018F03290500][0000018F019307C0 49] LinuxAArch64Client, [0000018F04994900][0000018F01934940 49] LinuxServer, [0000018F03293000][0000018F0196AAC0 49] LinuxAArch64Server, [0000018F04996A00][0000018F0196EC40 49] Android, [0000018F03291400][0000018F01972DC0 49] Android_Low, [0000018F04997300][0000018F0190EF40 49] Android_Mid, [0000018F03291000][0000018F06257080 49] Android_High, [0000018F04996800][0000018F062631C0 49] Android_Default, [0000018F03293500][0000018F01977300 49] Android_Adreno4xx, [0000018F04997100][0000018F0197F480 49] Android_Adreno5xx_Low, [0000018F04A3D800][0000018F01983600 49] Android_Adreno5xx, [0000018F0499F900][0000018F01987780 49] Android_Adreno6xx, [0000018F04A3C200][0000018F0198B900 49] Android_Adreno6xx_Vulkan, [0000018F0499C800][0000018F0198FA80 49] Android_Mali_T6xx, [0000018F04A3ED00][0000018F01993C00 49] Android_Mali_T7xx, [0000018F0499CE00][0000018F01996200 49] Android_Mali_T8xx, [0000018F04A3F300][0000018F0199A380 49] Android_Mali_G71, [0000018F0499DD00][0000018F0199E500 49] Android_Mali_G72, [0000018F04A3F200][0000018F0447C680 49] Android_Mali_G72_Vulkan, [0000018F0499C700][0000018F04480800 49] Android_Mali_G76, [0000018F04A3D300][0000018F04484980 49] Android_Mali_G76_Vulkan, [0000018F0499C500][0000018F04488B00 49] Android_Mali_G77, [0000018F04A3F700][0000018F0448CC80 49] Android_Mali_G77_Vulkan, [0000018F0499EA00][0000018F04490E00 49] Android_Mali_G78, [0000018F04A3C900][0000018F04494F80 49] Android_Mali_G78_Vulkan, [0000018F0499D000][0000018F04499100 49] Android_Mali_G710, [0000018F04A3FD00][0000018F0197B240 49] Android_Mali_G710_Vulkan, [0000018F0499F500][0000018F0449D380 49] Android_Vulkan_SM5, [0000018F04A3FE00][0000018F044A14C0 49] Android_PowerVR_G6xxx, [0000018F0499F100][0000018F044A9640 49] Android_PowerVR_GT7xxx, [0000018F04A3C800][0000018F044AD7C0 49] Android_PowerVR_GE8xxx, [0000018F0499DC00][0000018F044B1940 49] Android_PowerVR_GM9xxx, [0000018F04A3FC00][0000018F044B5AC0 49] Android_PowerVR_GM9xxx_Vulkan, [0000018F0499C100][0000018F044B80C0 49] Android_TegraK1, [0000018F04A3D600][0000018F044BC240 49] Android_Unknown_Vulkan, [0000018F0499C300][0000018F0612E3C0 49] Lumin, [0000018F04A3FA00][0000018F0662C540 49] Lumin_Desktop, [0000018F04996100][0000018F066006C0 49] HoloLens, 
+[2023.02.02-02.08.31:662][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.02.02-02.08.31:662][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.02.02-02.08.31:662][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.02.02-02.08.31:662][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.02.02-02.08.31:662][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.02.02-02.08.31:686][  0]LogNetVersion: GhostGang 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 1503634581)
+[2023.02.02-02.08.32:460][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2023.02.02-02.08.32:551][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2023.02.02-02.08.32:563][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2023.02.02-02.08.32:563][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2023.02.02-02.08.32:563][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.02.02-02.08.33:074][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 9E315FF64D980FF33C5FF4909BF25E66 | Instance: E000DAEE4B750766B49077BC8956CAAE (DESKTOP-S4OV2M6-16808).
+[2023.02.02-02.08.33:135][  0]LogPython: Using Python 3.7.7
+[2023.02.02-02.08.34:281][  0]UltraleapTrackingLog: Engine plugin DLL found at D:/UE_4.27/Engine/Plugins/Marketplace/UltraleapTracking/Binaries/Win64/LeapC.dll
+[2023.02.02-02.08.34:281][  0]UltraleapTrackingLog: Leap Plugin started v4.6.0
+[2023.02.02-02.08.34:333][  0]UltraleapTrackingLog: ServiceMessageLoop started.
+[2023.02.02-02.08.34:334][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.02.02-02.08.34:341][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.02.02-02.08.34:604][  0]SourceControl: Source control is disabled
+[2023.02.02-02.08.34:604][  0]SourceControl: Source control is disabled
+[2023.02.02-02.08.34:611][  0]SourceControl: Source control is disabled
+[2023.02.02-02.08.34:616][  0]SourceControl: Source control is disabled
+[2023.02.02-02.08.34:633][  0]SourceControl: Source control is disabled
+[2023.02.02-02.08.34:645][  0]LogUProjectInfo: Found projects:
+[2023.02.02-02.08.35:028][  0]LogOpenImageDenoise: OIDN starting up
+[2023.02.02-02.08.35:110][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.02.02-02.08.35:155][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.02.02-02.08.35:155][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.02.02-02.08.35:382][  0]LogCollectionManager: Loaded 0 collections in 0.000952 seconds
+[2023.02.02-02.08.35:428][  0]LogFileCache: Scanning file cache for directory 'D:/GhostGangHotel/GhostGang/Saved/Collections/' took 0.00s
+[2023.02.02-02.08.35:428][  0]LogFileCache: Scanning file cache for directory 'D:/GhostGangHotel/GhostGang/Content/Developers/albee/Collections/' took 0.00s
+[2023.02.02-02.08.35:428][  0]LogFileCache: Scanning file cache for directory 'D:/GhostGangHotel/GhostGang/Content/Collections/' took 0.00s
+[2023.02.02-02.08.35:428][  0]LogOcInput: OculusInput pre-init called
+[2023.02.02-02.08.35:893][  0]LogClass: Display: IntProperty FLeapFrameData::NumberOfHandsVisible is not initialized properly. Module:UltraleapTracking File:Public/UltraleapTrackingData.h
+[2023.02.02-02.08.35:893][  0]LogClass: Display: IntProperty FLeapFrameData::FrameRate is not initialized properly. Module:UltraleapTracking File:Public/UltraleapTrackingData.h
+[2023.02.02-02.08.35:893][  0]LogClass: Display: IntProperty FLeapFrameData::FrameId is not initialized properly. Module:UltraleapTracking File:Public/UltraleapTrackingData.h
+[2023.02.02-02.08.35:893][  0]LogClass: Display: BoolProperty FLeapFrameData::LeftHandVisible is not initialized properly. Module:UltraleapTracking File:Public/UltraleapTrackingData.h
+[2023.02.02-02.08.35:893][  0]LogClass: Display: BoolProperty FLeapFrameData::RightHandVisible is not initialized properly. Module:UltraleapTracking File:Public/UltraleapTrackingData.h
+[2023.02.02-02.08.35:893][  0]LogClass: Display: Int64Property FLeapFrameData::TimeStamp is not initialized properly. Module:UltraleapTracking File:Public/UltraleapTrackingData.h
+[2023.02.02-02.08.35:893][  0]LogClass: Display: StructProperty FLeapFrameData::FinalRotationAdjustment is not initialized properly. Module:UltraleapTracking File:Public/UltraleapTrackingData.h
+[2023.02.02-02.08.35:893][  0]LogClass: Display: FloatProperty FLeapHandData::Confidence is not initialized properly. Module:UltraleapTracking File:Public/UltraleapTrackingData.h
+[2023.02.02-02.08.35:893][  0]LogClass: Display: IntProperty FLeapHandData::Flags is not initialized properly. Module:UltraleapTracking File:Public/UltraleapTrackingData.h
+[2023.02.02-02.08.35:893][  0]LogClass: Display: FloatProperty FLeapHandData::GrabAngle is not initialized properly. Module:UltraleapTracking File:Public/UltraleapTrackingData.h
+[2023.02.02-02.08.35:893][  0]LogClass: Display: FloatProperty FLeapHandData::GrabStrength is not initialized properly. Module:UltraleapTracking File:Public/UltraleapTrackingData.h
+[2023.02.02-02.08.35:893][  0]LogClass: Display: ByteProperty FLeapHandData::HandType is not initialized properly. Module:UltraleapTracking File:Public/UltraleapTrackingData.h
+[2023.02.02-02.08.35:893][  0]LogClass: Display: FloatProperty FLeapHandData::PinchDistance is not initialized properly. Module:UltraleapTracking File:Public/UltraleapTrackingData.h
+[2023.02.02-02.08.35:893][  0]LogClass: Display: FloatProperty FLeapHandData::PinchStrength is not initialized properly. Module:UltraleapTracking File:Public/UltraleapTrackingData.h
+[2023.02.02-02.08.35:893][  0]LogClass: Display: IntProperty FLeapHandData::Id is not initialized properly. Module:UltraleapTracking File:Public/UltraleapTrackingData.h
+[2023.02.02-02.08.35:893][  0]LogClass: Display: FloatProperty FLeapHandData::VisibleTime is not initialized properly. Module:UltraleapTracking File:Public/UltraleapTrackingData.h
+[2023.02.02-02.08.35:893][  0]LogClass: Display: IntProperty FLeapDigitData::FingerId is not initialized properly. Module:UltraleapTracking File:Public/UltraleapTrackingData.h
+[2023.02.02-02.08.35:893][  0]LogClass: Display: BoolProperty FLeapDigitData::IsExtended is not initialized properly. Module:UltraleapTracking File:Public/UltraleapTrackingData.h
+[2023.02.02-02.08.35:893][  0]LogClass: Display: StructProperty FLeapBoneData::PrevJoint is not initialized properly. Module:UltraleapTracking File:Public/UltraleapTrackingData.h
+[2023.02.02-02.08.35:893][  0]LogClass: Display: StructProperty FLeapBoneData::NextJoint is not initialized properly. Module:UltraleapTracking File:Public/UltraleapTrackingData.h
+[2023.02.02-02.08.35:893][  0]LogClass: Display: StructProperty FLeapBoneData::Rotation is not initialized properly. Module:UltraleapTracking File:Public/UltraleapTrackingData.h
+[2023.02.02-02.08.35:893][  0]LogClass: Display: FloatProperty FLeapBoneData::Width is not initialized properly. Module:UltraleapTracking File:Public/UltraleapTrackingData.h
+[2023.02.02-02.08.35:893][  0]LogClass: Display: StructProperty FLeapPalmData::Direction is not initialized properly. Module:UltraleapTracking File:Public/UltraleapTrackingData.h
+[2023.02.02-02.08.35:893][  0]LogClass: Display: StructProperty FLeapPalmData::Normal is not initialized properly. Module:UltraleapTracking File:Public/UltraleapTrackingData.h
+[2023.02.02-02.08.35:893][  0]LogClass: Display: StructProperty FLeapPalmData::Orientation is not initialized properly. Module:UltraleapTracking File:Public/UltraleapTrackingData.h
+[2023.02.02-02.08.35:893][  0]LogClass: Display: StructProperty FLeapPalmData::Position is not initialized properly. Module:UltraleapTracking File:Public/UltraleapTrackingData.h
+[2023.02.02-02.08.35:893][  0]LogClass: Display: StructProperty FLeapPalmData::StabilizedPosition is not initialized properly. Module:UltraleapTracking File:Public/UltraleapTrackingData.h
+[2023.02.02-02.08.35:893][  0]LogClass: Display: StructProperty FLeapPalmData::Velocity is not initialized properly. Module:UltraleapTracking File:Public/UltraleapTrackingData.h
+[2023.02.02-02.08.35:893][  0]LogClass: Display: FloatProperty FLeapPalmData::Width is not initialized properly. Module:UltraleapTracking File:Public/UltraleapTrackingData.h
+[2023.02.02-02.08.35:893][  0]LogClass: Display: IntProperty FBodyStateDevice::DeviceId is not initialized properly. Module:BodyState File:Public/BodyStateDevice.h
+[2023.02.02-02.08.35:893][  0]LogClass: Display: EnumProperty FNamedBoneMeta::Name is not initialized properly. Module:BodyState File:Public/Skeleton/BodyStateSkeleton.h
+[2023.02.02-02.08.35:893][  0]LogClass: Display: EnumProperty FKeyedTransform::Name is not initialized properly. Module:BodyState File:Public/Skeleton/BodyStateSkeleton.h
+[2023.02.02-02.08.35:893][  0]LogClass: Display: EnumProperty FNamedBoneData::Name is not initialized properly. Module:BodyState File:Public/Skeleton/BodyStateSkeleton.h
+[2023.02.02-02.08.35:893][  0]LogClass: Display: IntProperty FLeapDevice::Baseline is not initialized properly. Module:UltraleapTracking File:Public/UltraleapTrackingData.h
+[2023.02.02-02.08.35:894][  0]LogClass: Display: FloatProperty FLeapDevice::HorizontalFOV is not initialized properly. Module:UltraleapTracking File:Public/UltraleapTrackingData.h
+[2023.02.02-02.08.35:894][  0]LogClass: Display: FloatProperty FLeapDevice::VerticalFOV is not initialized properly. Module:UltraleapTracking File:Public/UltraleapTrackingData.h
+[2023.02.02-02.08.35:894][  0]LogClass: Display: IntProperty FLeapDevice::Range is not initialized properly. Module:UltraleapTracking File:Public/UltraleapTrackingData.h
+[2023.02.02-02.08.35:894][  0]LogClass: Display: 37 Uninitialized script struct members found including 0 object properties
+[2023.02.02-02.08.35:896][  0]LogEngine: Initializing Engine...
+[2023.02.02-02.08.35:899][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2023.02.02-02.08.35:899][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.02.02-02.08.35:900][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2023.02.02-02.08.35:901][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.02.02-02.08.36:101][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.02.02-02.08.36:117][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.02.02-02.08.36:134][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.02.02-02.08.36:141][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.02.02-02.08.36:141][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.02.02-02.08.36:142][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.02.02-02.08.36:142][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.02.02-02.08.36:142][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.02-02.08.36:142][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.02-02.08.36:142][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.02-02.08.36:142][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.02-02.08.36:142][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.02-02.08.36:142][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.02-02.08.36:142][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.02-02.08.36:142][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.02-02.08.36:143][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.02-02.08.36:143][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.02-02.08.36:143][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.02-02.08.36:143][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.02-02.08.36:166][  0]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.02-02.08.36:166][  0]LogAudioMixer: Display: 1: FrontRight
+[2023.02.02-02.08.36:197][  0]LogAudioMixer: Display: Using Audio Device Headphones (2- Hesh Evo)
+[2023.02.02-02.08.36:200][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.02-02.08.36:203][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.02-02.08.36:204][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.02-02.08.36:205][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.02-02.08.36:205][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.02-02.08.36:205][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.02-02.08.36:207][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.02-02.08.36:207][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.02-02.08.36:207][  0]LogInit: FAudioDevice initialized.
+[2023.02.02-02.08.36:208][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.02.02-02.08.36:208][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.02.02-02.08.36:591][  0]LogDerivedDataCache: Saved boot cache 0.38s 94MB C:/Users/albee/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2023.02.02-02.08.36:592][  0]LogInit: Texture streaming: Enabled
+[2023.02.02-02.08.36:632][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2023.02.02-02.08.36:642][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.02.02-02.08.36:642][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2023.02.02-02.08.36:646][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2023.02.02-02.08.36:713][  0]LogInit: Transaction tracking system initialized
+[2023.02.02-02.08.36:761][  0]BlueprintLog: New page: Editor Load
+[2023.02.02-02.08.36:874][  0]LocalizationService: Localization service is disabled
+[2023.02.02-02.08.36:915][  0]TimingProfiler: Initialize
+[2023.02.02-02.08.36:915][  0]TimingProfiler: OnSessionChanged
+[2023.02.02-02.08.36:915][  0]LoadingProfiler: Initialize
+[2023.02.02-02.08.36:915][  0]LoadingProfiler: OnSessionChanged
+[2023.02.02-02.08.36:915][  0]NetworkingProfiler: Initialize
+[2023.02.02-02.08.36:915][  0]NetworkingProfiler: OnSessionChanged
+[2023.02.02-02.08.36:915][  0]MemoryProfiler: Initialize
+[2023.02.02-02.08.36:915][  0]MemoryProfiler: OnSessionChanged
+[2023.02.02-02.08.37:188][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2023.02.02-02.08.37:188][  0]LogCook: Display: Mobile HDR setting 1
+[2023.02.02-02.08.37:548][  0]LogFileCache: Scanning file cache for directory 'D:/GhostGangHotel/GhostGang/Content/' took 0.01s
+[2023.02.02-02.08.37:896][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.02.02-02.08.37:901][  0]SourceControl: Source control is disabled
+[2023.02.02-02.08.37:901][  0]LogUnrealEdMisc: Loading editor; pre map load, took 13.230
+[2023.02.02-02.08.37:902][  0]Cmd: MAP LOAD FILE="../../../../GhostGangHotel/GhostGang/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.02.02-02.08.37:902][  0]LightingResults: New page: Lighting Build
+[2023.02.02-02.08.37:905][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.02.02-02.08.37:905][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.02-02.08.37:905][  0]MapCheck: New page: Map Check
+[2023.02.02-02.08.37:905][  0]LightingResults: New page: Lighting Build
+[2023.02.02-02.08.37:915][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.02-02.08.37:920][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2023.02.02-02.08.38:099][  0]LogLinker: Warning: [AssetLog] D:\GhostGangHotel\GhostGang\Content\SideScrollerBP\Maps\SideScrollerExampleMap.umap: Failed to load '/Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData': Can't find file.
+[2023.02.02-02.08.38:100][  0]LogLinker: Warning: [AssetLog] D:\GhostGangHotel\GhostGang\Content\SideScrollerBP\Maps\SideScrollerExampleMap.umap: Failed to load '/Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData': Can't find file.
+[2023.02.02-02.08.38:104][  0]LogLinker: Warning: [AssetLog] D:\GhostGangHotel\GhostGang\Content\SideScrollerBP\Maps\SideScrollerExampleMap.umap: Failed to load '/Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData': Can't find file.
+[2023.02.02-02.08.38:105][  0]LogLinker: Warning: Failed to load '/Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData': Can't find file.
+[2023.02.02-02.08.38:105][  0]LogLinker: Warning: Failed to load '/Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData': Can't find file.
+[2023.02.02-02.08.38:118][  0]LogLinker: Warning: [AssetLog] D:\GhostGangHotel\GhostGang\Content\SideScrollerBP\Maps\SideScrollerExampleMap.umap: Failed to load '/Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData': Can't find file.
+[2023.02.02-02.08.38:119][  0]LoadErrors: Failed to load /Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData.SideScrollerExampleMap_BuiltData Referenced by PersistentLevel
+[2023.02.02-02.08.38:380][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'SideScrollerExampleMap'.
+[2023.02.02-02.08.38:383][  0]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2023.02.02-02.08.38:394][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.02.02-02.08.38:416][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2023.02.02-02.08.38:417][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.02.02-02.08.38:417][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.21ms to complete.
+[2023.02.02-02.08.38:417][  0]LogFileHelpers: Loading map 'SideScrollerExampleMap' took 0.516
+[2023.02.02-02.08.38:421][  0]LogUnrealEdMisc: Total Editor Startup Time, took 13.749
+[2023.02.02-02.08.38:624][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.02-02.08.38:637][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.02-02.08.38:651][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.02-02.08.38:664][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.02-02.08.38:693][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0220 seconds. Added 3848 classes and 940 folders.
+[2023.02.02-02.08.38:731][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2023.02.02-02.08.38:733][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.02.02-02.08.38:733][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.02-02.08.38:733][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.02.02-02.08.38:733][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.02-02.08.38:733][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2023.02.02-02.08.38:733][  0]LogPakFile: OnPakFileMounted2Time == 0.000077
+[2023.02.02-02.08.38:734][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2023.02.02-02.08.38:734][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.02-02.08.38:734][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2023.02.02-02.08.38:734][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.02-02.08.38:734][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2023.02.02-02.08.38:734][  0]LogPakFile: OnPakFileMounted2Time == 0.000080
+[2023.02.02-02.08.38:735][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2023.02.02-02.08.38:735][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.02-02.08.38:735][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2023.02.02-02.08.38:735][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.02-02.08.38:735][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2023.02.02-02.08.38:735][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2023.02.02-02.08.38:736][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.02.02-02.08.38:736][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.02-02.08.38:736][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.02.02-02.08.38:736][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.02-02.08.38:736][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/StarterContent.upack)
+[2023.02.02-02.08.38:736][  0]LogPakFile: OnPakFileMounted2Time == 0.000080
+[2023.02.02-02.08.38:737][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2023.02.02-02.08.38:737][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.02-02.08.38:737][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2023.02.02-02.08.38:737][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.02-02.08.38:737][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2023.02.02-02.08.38:737][  0]LogPakFile: OnPakFileMounted2Time == 0.000061
+[2023.02.02-02.08.38:738][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2023.02.02-02.08.38:738][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.02-02.08.38:738][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2023.02.02-02.08.38:738][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.02-02.08.38:738][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2023.02.02-02.08.38:738][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2023.02.02-02.08.38:738][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2023.02.02-02.08.38:738][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.02-02.08.38:738][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2023.02.02-02.08.38:738][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.02-02.08.38:738][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2023.02.02-02.08.38:738][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2023.02.02-02.08.38:739][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2023.02.02-02.08.38:739][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.02-02.08.38:739][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2023.02.02-02.08.38:739][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.02-02.08.38:739][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2023.02.02-02.08.38:739][  0]LogPakFile: OnPakFileMounted2Time == 0.000121
+[2023.02.02-02.08.38:740][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.02.02-02.08.38:740][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.02-02.08.38:740][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.02.02-02.08.38:740][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.02-02.08.38:740][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2023.02.02-02.08.38:740][  0]LogPakFile: OnPakFileMounted2Time == 0.000057
+[2023.02.02-02.08.38:741][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2023.02.02-02.08.38:741][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.02-02.08.38:741][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2023.02.02-02.08.38:741][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.02-02.08.38:741][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2023.02.02-02.08.38:741][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2023.02.02-02.08.38:742][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2023.02.02-02.08.38:742][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.02-02.08.38:742][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2023.02.02-02.08.38:742][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.02-02.08.38:742][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2023.02.02-02.08.38:742][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2023.02.02-02.08.38:743][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.02.02-02.08.38:743][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.02-02.08.38:743][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.02.02-02.08.38:743][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.02-02.08.38:743][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2023.02.02-02.08.38:743][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2023.02.02-02.08.38:743][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.02.02-02.08.38:743][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.02-02.08.38:743][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.02.02-02.08.38:743][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.02-02.08.38:743][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2023.02.02-02.08.38:743][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2023.02.02-02.08.38:744][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.02.02-02.08.38:744][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.02-02.08.38:744][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.02.02-02.08.38:744][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.02-02.08.38:744][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2023.02.02-02.08.38:744][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2023.02.02-02.08.38:745][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2023.02.02-02.08.38:745][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.02-02.08.38:745][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2023.02.02-02.08.38:745][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.02-02.08.38:745][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2023.02.02-02.08.38:745][  0]LogPakFile: OnPakFileMounted2Time == 0.000056
+[2023.02.02-02.08.38:745][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.02.02-02.08.38:745][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.02-02.08.38:745][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.02.02-02.08.38:745][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.02-02.08.38:745][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2023.02.02-02.08.38:745][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2023.02.02-02.08.38:746][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2023.02.02-02.08.38:746][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.02-02.08.38:746][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2023.02.02-02.08.38:746][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.02-02.08.38:746][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2023.02.02-02.08.38:746][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2023.02.02-02.08.38:747][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.02.02-02.08.38:747][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.02-02.08.38:747][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.02.02-02.08.38:747][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.02-02.08.38:747][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2023.02.02-02.08.38:747][  0]LogPakFile: OnPakFileMounted2Time == 0.000078
+[2023.02.02-02.08.38:749][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.02.02-02.08.38:749][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.02-02.08.38:749][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.02.02-02.08.38:749][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.02-02.08.38:749][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2023.02.02-02.08.38:749][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2023.02.02-02.08.38:749][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.02.02-02.08.38:749][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.02-02.08.38:749][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.02.02-02.08.38:749][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.02-02.08.38:749][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2023.02.02-02.08.38:749][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2023.02.02-02.08.38:750][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.02.02-02.08.38:750][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.02-02.08.38:750][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.02.02-02.08.38:750][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.02-02.08.38:750][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2023.02.02-02.08.38:750][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2023.02.02-02.08.38:750][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.02.02-02.08.38:750][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.02-02.08.38:750][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.02.02-02.08.38:750][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.02-02.08.38:750][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2023.02.02-02.08.38:751][  0]LogPakFile: OnPakFileMounted2Time == 0.000057
+[2023.02.02-02.08.38:752][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2023.02.02-02.08.38:752][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.02-02.08.38:752][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2023.02.02-02.08.38:752][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.02-02.08.38:752][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2023.02.02-02.08.38:752][  0]LogPakFile: OnPakFileMounted2Time == 0.000063
+[2023.02.02-02.08.38:753][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.02.02-02.08.38:753][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.02-02.08.38:753][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.02.02-02.08.38:753][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.02-02.08.38:753][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2023.02.02-02.08.38:753][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2023.02.02-02.08.38:753][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.02.02-02.08.38:753][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.02-02.08.38:753][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.02.02-02.08.38:753][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.02-02.08.38:753][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2023.02.02-02.08.38:753][  0]LogPakFile: OnPakFileMounted2Time == 0.000065
+[2023.02.02-02.08.38:754][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2023.02.02-02.08.38:754][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.02-02.08.38:754][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2023.02.02-02.08.38:754][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.02-02.08.38:754][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2023.02.02-02.08.38:754][  0]LogPakFile: OnPakFileMounted2Time == 0.000047
+[2023.02.02-02.08.38:846][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2023.02.02-02.08.38:867][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 0 folders.
+[2023.02.02-02.08.38:959][  0]UltraleapTrackingLog: LeapService: OnConnect.
+[2023.02.02-02.08.38:993][  0]LogSlate: Took 0.000744 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.02.02-02.08.38:995][  0]LogSlate: Took 0.000317 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.02.02-02.08.38:996][  0]LogSlate: Took 0.000295 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.02.02-02.08.39:126][  0]LogRenderer: Reallocating scene render targets to support 836x396 Format 10 NumSamples 1 (Frame:1).
+[2023.02.02-02.08.40:158][  0]LogSlate: Took 0.000265 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.02.02-02.08.40:270][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2023.02.02-02.08.40:270][  0]LogLoad: (Engine Initialization) Total time: 15.60 seconds
+[2023.02.02-02.08.40:270][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.02.02-02.08.40:290][  0]BodyStateLog: BodyState::DeviceAttached: HMD (1)
+[2023.02.02-02.08.40:290][  0]UltraleapTrackingLog: Warning: FOpenXRToLeapWrapper::InitOpenXRHandTrackingModule() No XR System found, is an HMD connected?
+[2023.02.02-02.08.40:290][  0]BodyStateLog: BodyState::DeviceAttached: Leap Motion OpenXR Device 1 (2)
+[2023.02.02-02.08.40:290][  0]BodyStateLog: Id: 2
+[2023.02.02-02.08.40:291][  0]BodyStateLog: BodyState::Device Detached: Leap Motion OpenXR Device 1 (1)
+[2023.02.02-02.08.40:291][  0]UltraleapTrackingLog: FOpenXRToLeapWrapper Attempt at closing an already closed connection.
+[2023.02.02-02.08.40:346][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.02.02-02.08.40:416][  0]LogRenderer: Reallocating scene render targets to support 836x412 Format 10 NumSamples 1 (Frame:3).
+[2023.02.02-02.08.40:416][  0]LogSlate: Took 0.000301 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.02.02-02.08.40:459][  1]LogAssetRegistry: Asset discovery search completed in 9.4888 seconds
+[2023.02.02-02.08.40:471][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000005 seconds (updated 0 objects)
+[2023.02.02-02.08.41:366][ 27]LogSlate: Took 0.000261 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.02.02-02.09.05:103][858]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2023.02.02-02.09.05:202][858]LogLinker: Warning: [AssetLog] D:\GhostGangHotel\GhostGang\Content\GhostGang\BP\GhostMode.uasset: Failed to load '/Game/GhostGang/BP/UltraleapTrackingPlayer': Can't find file.
+[2023.02.02-02.09.05:203][858]LogLinker: Warning: [AssetLog] D:\GhostGangHotel\GhostGang\Content\GhostGang\BP\GhostMode.uasset: Failed to load '/Game/GhostGang/BP/UltraleapTrackingPlayer': Can't find file.
+[2023.02.02-02.09.05:203][858]LogLinker: Warning: [AssetLog] D:\GhostGangHotel\GhostGang\Content\GhostGang\Levels\Level01.umap: Failed to load '/Game/GhostGang/BP/UltraleapTrackingPlayer': Can't find file.
+[2023.02.02-02.09.05:203][858]LogLinker: Warning: [AssetLog] D:\GhostGangHotel\GhostGang\Content\GhostGang\Levels\Level01.umap: Failed to load '/Game/GhostGang/BP/UltraleapTrackingPlayer': Can't find file.
+[2023.02.02-02.09.05:204][858]LogLinker: Warning: [AssetLog] D:\GhostGangHotel\GhostGang\Content\GhostGang\Levels\Level01.umap: Failed to load '/Game/GhostGang/BP/UltraleapTrackingPlayer': Can't find file.
+[2023.02.02-02.09.05:204][858]LoadErrors: Failed to load /Game/GhostGang/BP/UltraleapTrackingPlayer.LeapMotionPlayer_C Referenced by Default__GhostMode_C
+[2023.02.02-02.09.05:210][858]LogLinker: Warning: [AssetLog] D:\GhostGangHotel\GhostGang\Content\GhostGang\BP\HotelRoom.uasset: Failed to load '/Game/GhostGang/BP/UltraleapTrackingPlayer': Can't find file.
+[2023.02.02-02.09.05:217][858]LogLinker: Warning: [AssetLog] D:\GhostGangHotel\GhostGang\Content\GhostGang\Levels\Level01.umap: Failed to load '/Game/GhostGang/BP/UltraleapTrackingPlayer': Can't find file.
+[2023.02.02-02.09.05:217][858]LogLinker: Warning: [AssetLog] D:\GhostGangHotel\GhostGang\Content\GhostGang\Levels\Level01.umap: Failed to load '/Game/GhostGang/BP/UltraleapTrackingPlayer': Can't find file.
+[2023.02.02-02.09.05:217][858]LogLinker: Warning: [AssetLog] D:\GhostGangHotel\GhostGang\Content\GhostGang\Levels\Level01.umap: Failed to load '/Game/GhostGang/BP/UltraleapTrackingPlayer': Can't find file.
+[2023.02.02-02.09.05:219][858]LogLinker: Warning: [AssetLog] D:\GhostGangHotel\GhostGang\Content\GhostGang\Levels\Level01.umap: Failed to load '/Game/GhostGang/BP/UltraleapTrackingPlayer': Can't find file.
+[2023.02.02-02.09.05:219][858]LoadErrors: Failed to load /Game/GhostGang/BP/UltraleapTrackingPlayer.LeapMotionPlayer_C Referenced by K2Node_DynamicCast_2
+[2023.02.02-02.09.05:219][858]LogLinker: Warning: [AssetLog] D:\GhostGangHotel\GhostGang\Content\GhostGang\Levels\Level01.umap: Failed to load '/Game/GhostGang/BP/UltraleapTrackingPlayer': Can't find file.
+[2023.02.02-02.09.05:220][858]LogLinker: Warning: [AssetLog] D:\GhostGangHotel\GhostGang\Content\GhostGang\Levels\Level01.umap: Failed to load '/Game/GhostGang/BP/UltraleapTrackingPlayer': Can't find file.
+[2023.02.02-02.09.05:220][858]LoadErrors: Failed to load /Game/GhostGang/BP/UltraleapTrackingPlayer.LeapMotionPlayer_C Referenced by K2Node_VariableSet_0
+[2023.02.02-02.09.05:220][858]LogLinker: Warning: [AssetLog] D:\GhostGangHotel\GhostGang\Content\GhostGang\Levels\Level01.umap: Failed to load '/Game/GhostGang/BP/UltraleapTrackingPlayer': Can't find file.
+[2023.02.02-02.09.05:247][858]LogBlueprint: Error: [AssetLog] D:\GhostGangHotel\GhostGang\Content\GhostGang\BP\HotelRoom.uasset: [Compiler] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2023.02.02-02.09.05:252][858]LogBlueprint: Warning: [AssetLog] D:\GhostGangHotel\GhostGang\Content\GhostGang\BP\HotelRoom.uasset: [Compiler] Could not find a variable named "Plantable?" in 'HotelRoom'.
+Make sure 'HotelRoom' has been compiled for  Set Plantable?
+[2023.02.02-02.09.05:252][858]LogBlueprint: Error: [AssetLog] D:\GhostGangHotel\GhostGang\Content\GhostGang\BP\HotelRoom.uasset: [Compiler] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2023.02.02-02.09.05:252][858]LogBlueprint: Error: [AssetLog] D:\GhostGangHotel\GhostGang\Content\GhostGang\BP\HotelRoom.uasset: [Compiler] In use pin  As Leap Motion Player  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2023.02.02-02.09.05:254][858]LogBlueprint: Error: [AssetLog] D:\GhostGangHotel\GhostGang\Content\GhostGang\BP\HotelRoom.uasset: [Compiler] The property associated with  Plantable?  could not be found in '/Game/GhostGang/BP/HotelRoom.HotelRoom_C'
+[2023.02.02-02.09.05:347][858]LogAssetEditorSubsystem: Opening Asset editor for World /Game/GhostGang/Levels/Level01.Level01
+[2023.02.02-02.09.05:347][858]Cmd: MAP LOAD FILE="../../../../GhostGangHotel/GhostGang/Content/GhostGang/Levels/Level01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.02.02-02.09.05:347][858]LightingResults: New page: Lighting Build
+[2023.02.02-02.09.05:347][858]LoadErrors: New page: Loading map: Level01.umap
+[2023.02.02-02.09.05:351][858]LogWorld: UWorld::CleanupWorld for SideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.02.02-02.09.05:351][858]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.02-02.09.05:351][858]MapCheck: New page: Map Check
+[2023.02.02-02.09.05:351][858]LightingResults: New page: Lighting Build
+[2023.02.02-02.09.05:365][858]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.02-02.09.05:371][858]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2023.02.02-02.09.05:373][858]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level01'.
+[2023.02.02-02.09.05:502][858]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.02.02-02.09.05:502][858]LogAIModule: Creating AISystem for world Level01
+[2023.02.02-02.09.05:524][858]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.02.02-02.09.05:540][858]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.02.02-02.09.05:541][858]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.169ms to complete.
+[2023.02.02-02.09.05:541][858]LogFileHelpers: Loading map 'Level01' took 0.194
+[2023.02.02-02.09.06:954][893]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GhostGang/Levels/Level01" FILE="../../../../GhostGangHotel/GhostGang/Content/GhostGang/Levels/Level01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.02-02.09.06:968][893]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.02.02-02.09.07:019][893]LogSavePackage: Moving '../../../../GhostGangHotel/GhostGang/Saved/Level010CF459634EB1A8E887435B94646BCB3B.tmp' to '../../../../GhostGangHotel/GhostGang/Content/GhostGang/Levels/Level01.umap'
+[2023.02.02-02.09.07:043][893]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GhostGang/Levels/Level01_BuiltData" FILE="../../../../GhostGangHotel/GhostGang/Content/GhostGang/Levels/Level01_BuiltData.uasset" SILENT=true
+[2023.02.02-02.09.07:099][893]LogSavePackage: Moving '../../../../GhostGangHotel/GhostGang/Saved/Level01_BuiltData1918B7ED4A80BC96FB0362B322640D0B.tmp' to '../../../../GhostGangHotel/GhostGang/Content/GhostGang/Levels/Level01_BuiltData.uasset'
+[2023.02.02-02.09.07:128][893]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.02-02.09.07:128][893]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/GhostGang/Levels/Level01_BuiltData.Level01_BuiltData
+[2023.02.02-02.09.07:128][893]LogContentValidation: Display: Validating World /Game/GhostGang/Levels/Level01.Level01
+[2023.02.02-02.10.12:513][455]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.02.02-02.10.12:525][455]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.02-02.10.12:525][455]BlueprintLog: Warning: Blueprint failed to compile:  HotelRoom
+[2023.02.02-02.10.12:527][455]LogCustomDialog: Dialog displayed:
+[2023.02.02-02.10.14:709][455]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2023.02.02-02.10.20:293][621]PIE: Warning: Constraint in '/Engine/Transient.World_1:PersistentLevel.BP_NewPlayerMan_C_0.HeadToBody' attempting to create a joint between objects that are both static.  No joint created.
+[2023.02.02-02.10.20:293][621]PIE: Warning: Constraint in '/Engine/Transient.World_1:PersistentLevel.BP_NewPlayerMan_C_0.BodyToCharacter' attempting to create a joint between objects that are both static.  No joint created.
+[2023.02.02-02.10.21:939][646]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GhostGang/BP/HotelRoom.HotelRoom
+[2023.02.02-02.10.24:119][646]LogBlueprint: Warning: [AssetLog] D:\UE_4.27\Engine\Plugins\Marketplace\UltraleapTracking\Content\InteractionEngine\Pawn\IEPawnHands.uasset: [Compiler] Input Axis Event references unknown Axis 'MovementAxisRight_Y' for  InputAxis MovementAxisRight_Y
+[2023.02.02-02.10.24:120][646]LogBlueprint: Warning: [AssetLog] D:\UE_4.27\Engine\Plugins\Marketplace\UltraleapTracking\Content\InteractionEngine\Pawn\IEPawnHands.uasset: [Compiler] InputAction Event references unknown Action 'Teleport' for  InputAction Teleport
+[2023.02.02-02.10.24:120][646]LogBlueprint: Warning: [AssetLog] D:\UE_4.27\Engine\Plugins\Marketplace\UltraleapTracking\Content\InteractionEngine\Pawn\IEPawnHands.uasset: [Compiler] Input Axis Event references unknown Axis 'MovementAxisLeft_Y' for  InputAxis MovementAxisLeft_Y
+[2023.02.02-02.10.24:121][646]LogBlueprint: Warning: [AssetLog] D:\UE_4.27\Engine\Plugins\Marketplace\UltraleapTracking\Content\InteractionEngine\Pawn\IEPawnHands.uasset: [Compiler] Input Axis Event references unknown Axis 'MovementAxisLeft_X' for  InputAxis MovementAxisLeft_X
+[2023.02.02-02.10.24:121][646]LogBlueprint: Warning: [AssetLog] D:\UE_4.27\Engine\Plugins\Marketplace\UltraleapTracking\Content\InteractionEngine\Pawn\IEPawnHands.uasset: [Compiler] Input Axis Event references unknown Axis 'TriggerAxisRight' for  InputAxis TriggerAxisRight
+[2023.02.02-02.10.24:121][646]LogBlueprint: Warning: [AssetLog] D:\UE_4.27\Engine\Plugins\Marketplace\UltraleapTracking\Content\InteractionEngine\Pawn\IEPawnHands.uasset: [Compiler] Input Axis Event references unknown Axis 'TriggerAxisLeft' for  InputAxis TriggerAxisLeft
+[2023.02.02-02.10.24:122][646]LogBlueprint: Warning: [AssetLog] D:\UE_4.27\Engine\Plugins\Marketplace\UltraleapTracking\Content\InteractionEngine\Pawn\IEPawnHands.uasset: [Compiler] InputAction Event references unknown Action 'MouseMoveRight' for  InputAction MouseMoveRight
+[2023.02.02-02.10.24:122][646]LogBlueprint: Warning: [AssetLog] D:\UE_4.27\Engine\Plugins\Marketplace\UltraleapTracking\Content\InteractionEngine\Pawn\IEPawnHands.uasset: [Compiler] InputAction Event references unknown Action 'LeapLocomotionLeft' for  InputAction LeapLocomotionLeft
+[2023.02.02-02.10.24:122][646]LogBlueprint: Warning: [AssetLog] D:\UE_4.27\Engine\Plugins\Marketplace\UltraleapTracking\Content\InteractionEngine\Pawn\IEPawnHands.uasset: [Compiler] InputAction Event references unknown Action 'MouseMoveLeft' for  InputAction MouseMoveLeft
+[2023.02.02-02.10.24:122][646]LogBlueprint: Warning: [AssetLog] D:\UE_4.27\Engine\Plugins\Marketplace\UltraleapTracking\Content\InteractionEngine\Pawn\IEPawnHands.uasset: [Compiler] InputAction Event references unknown Action 'MouseMoveBackward' for  InputAction MouseMoveBackward
+[2023.02.02-02.10.24:122][646]LogBlueprint: Warning: [AssetLog] D:\UE_4.27\Engine\Plugins\Marketplace\UltraleapTracking\Content\InteractionEngine\Pawn\IEPawnHands.uasset: [Compiler] InputAction Event references unknown Action 'MouseMoveForward' for  InputAction MouseMoveForward
+[2023.02.02-02.10.25:697][646]LogBlueprintEditor: Perf: 3.7 total seconds to load all 10 blueprint libraries in project. Avoid references to content in blueprint libraries to shorten this time.
+[2023.02.02-02.10.25:697][646]LogBlueprintEditor: Perf: 3.4 seconds loading: /UltraleapTracking/InteractionEngine/IEMacroUtils
+[2023.02.02-02.10.25:802][646]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0016 seconds. Added 126 classes and 0 folders.
+[2023.02.02-02.10.27:762][646]LogSlate: Took 0.000374 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.02.02-02.10.29:637][690]LogSlate: Window 'HotelRoom' being destroyed
+[2023.02.02-02.11.10:264][793]LogLinker: Warning: Failed to load '/Game/GhostGang/BP/UltraleapTrackingPlayer': Can't find file.
+[2023.02.02-02.11.10:264][793]LogLinker: Warning: Failed to load '/Game/GhostGang/BP/UltraleapTrackingPlayer': Can't find file.
+[2023.02.02-02.11.10:264][793]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/GhostGang/BP/UltraleapTrackingPlayer.LeapMotionPlayer'
+[2023.02.02-02.11.10:264][793]LogAssetEditorSubsystem: Error: Opening Asset editor failed because of null asset
+[2023.02.02-02.11.24:603][119]LogAssetEditorSubsystem: Error: Opening Asset editor failed because of null asset
+[2023.02.02-02.11.35:037][319]LogAssetEditorSubsystem: Error: Opening Asset editor failed because of null asset
+[2023.02.02-02.11.41:206][536]LogSlate: Took 0.000308 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.02.02-02.11.42:786][623]BlueprintLog: New page: Compile HotelRoom
+[2023.02.02-02.11.42:925][623]LogUObjectHash: Compacting FUObjectHashTables data took   6.56ms
+[2023.02.02-02.11.46:267][732]LogAssetEditorSubsystem: Error: Opening Asset editor failed because of null asset
+[2023.02.02-02.12.05:135][503]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GhostGang/BP/BP_NewPlayerMan.BP_NewPlayerMan
+[2023.02.02-02.12.52:846][ 64]BlueprintLog: New page: Compile BP_NewPlayerMan
+[2023.02.02-02.12.52:960][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   5.98ms
+[2023.02.02-02.12.52:972][ 64]PIE: Warning: Constraint in '/Engine/Transient.World_1:PersistentLevel.BP_NewPlayerMan_C_1.HeadToBody' attempting to create a joint between objects that are both static.  No joint created.
+[2023.02.02-02.12.52:972][ 64]PIE: Warning: Constraint in '/Engine/Transient.World_1:PersistentLevel.BP_NewPlayerMan_C_1.BodyToCharacter' attempting to create a joint between objects that are both static.  No joint created.
+[2023.02.02-02.12.53:826][100]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GhostGang/BP/BP_NewPlayerMan" FILE="../../../../GhostGangHotel/GhostGang/Content/GhostGang/BP/BP_NewPlayerMan.uasset" SILENT=true
+[2023.02.02-02.12.53:847][100]LogSavePackage: Moving '../../../../GhostGangHotel/GhostGang/Saved/BP_NewPlayerMan6DD0A8944F7B401C3A7E9793B1A91FCC.tmp' to '../../../../GhostGangHotel/GhostGang/Content/GhostGang/BP/BP_NewPlayerMan.uasset'
+[2023.02.02-02.12.53:877][100]AssetCheck: New page: Asset Save: BP_NewPlayerMan
+[2023.02.02-02.12.53:877][100]LogContentValidation: Display: Validating Blueprint /Game/GhostGang/BP/BP_NewPlayerMan.BP_NewPlayerMan
+[2023.02.02-02.13.00:377][360]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GhostGang/BP/HotelRoom" FILE="../../../../GhostGangHotel/GhostGang/Content/GhostGang/BP/HotelRoom.uasset" SILENT=true
+[2023.02.02-02.13.00:404][360]LogSavePackage: Moving '../../../../GhostGangHotel/GhostGang/Saved/HotelRoom3267616F4EE3D4CD79D49E88AA686ACE.tmp' to '../../../../GhostGangHotel/GhostGang/Content/GhostGang/BP/HotelRoom.uasset'
+[2023.02.02-02.13.00:430][360]AssetCheck: New page: Asset Save: HotelRoom
+[2023.02.02-02.13.00:430][360]LogContentValidation: Display: Validating Blueprint /Game/GhostGang/BP/HotelRoom.HotelRoom
+[2023.02.02-02.13.01:116][396]BlueprintLog: New page: Compile HotelRoom
+[2023.02.02-02.13.01:226][396]LogUObjectHash: Compacting FUObjectHashTables data took   5.83ms
+[2023.02.02-02.13.06:086][591]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.02.02-02.13.06:098][591]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.02-02.13.06:098][591]PIE: New page: PIE session: Level01 (2 Feb 2023, 02:13:06)
+[2023.02.02-02.13.06:100][591]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2023.02.02-02.13.06:103][591]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.02.02-02.13.06:103][591]LogPlayLevel: Creating play world package: /Game/GhostGang/Levels/UEDPIE_0_Level01
+[2023.02.02-02.13.06:121][591]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018032s)
+[2023.02.02-02.13.06:122][591]LogAIModule: Creating AISystem for world Level01
+[2023.02.02-02.13.06:123][591]LogPlayLevel: PIE: World Init took: (0.001868s)
+[2023.02.02-02.13.06:123][591]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GhostGang/Levels/Level01.Level01 to /Game/GhostGang/Levels/UEDPIE_0_Level01.Level01 (0.020214s)
+[2023.02.02-02.13.06:180][591]LogUObjectHash: Compacting FUObjectHashTables data took   4.99ms
+[2023.02.02-02.13.06:182][591]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.02.02-02.13.06:182][591]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.02-02.13.06:182][591]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.02-02.13.06:182][591]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.02-02.13.06:182][591]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.02-02.13.06:182][591]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.02-02.13.06:182][591]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.02-02.13.06:182][591]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.02-02.13.06:182][591]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.02-02.13.06:183][591]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.02-02.13.06:183][591]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.02-02.13.06:183][591]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.02-02.13.06:183][591]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.02-02.13.06:190][591]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.02-02.13.06:190][591]LogAudioMixer: Display: 1: FrontRight
+[2023.02.02-02.13.06:204][591]LogAudioMixer: Display: Using Audio Device Headphones (2- Hesh Evo)
+[2023.02.02-02.13.06:205][591]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.02-02.13.06:205][591]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.02-02.13.06:205][591]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.02-02.13.06:206][591]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.02-02.13.06:206][591]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.02-02.13.06:206][591]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.02-02.13.06:208][591]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.02-02.13.06:208][591]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.02-02.13.06:208][591]LogInit: FAudioDevice initialized.
+[2023.02.02-02.13.06:208][591]LogAudio: Display: Audio Device (ID: 2) registered with world 'Level01'.
+[2023.02.02-02.13.06:273][591]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.02-02.13.06:273][591]LogLoad: Game class is 'GhostMode_C'
+[2023.02.02-02.13.06:278][591]LogWorld: Bringing World /Game/GhostGang/Levels/UEDPIE_0_Level01.Level01 up for play (max tick rate 60) at 2023.02.02-02.13.06
+[2023.02.02-02.13.06:279][591]LogWorld: Bringing up level for play took: 0.003525
+[2023.02.02-02.13.06:279][591]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2023.02.02-02.13.06:293][591]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 20 classes and 0 folders.
+[2023.02.02-02.13.06:299][591]PIE: Server logged in
+[2023.02.02-02.13.06:302][591]PIE: Play in editor total start time 0.205 seconds.
+[2023.02.02-02.13.06:438][592]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2023.02.02-02.13.09:675][642]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.02-02.13.09:675][642]LogWorld: BeginTearingDown for /Game/GhostGang/Levels/UEDPIE_0_Level01
+[2023.02.02-02.13.09:676][642]LogSlate: Window 'GhostGang Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2023.02.02-02.13.09:696][642]LogWorld: UWorld::CleanupWorld for Level01, bSessionEnded=true, bCleanupResources=true
+[2023.02.02-02.13.09:697][642]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.02-02.13.09:728][642]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.02-02.13.09:740][642]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.02-02.13.09:802][642]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.02-02.13.09:819][642]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.02-02.13.09:821][642]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.02-02.13.09:880][642]LogUObjectHash: Compacting FUObjectHashTables data took   8.50ms
+[2023.02.02-02.13.09:920][643]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2023.02.02-02.13.27:687][896]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.02.02-02.13.27:699][896]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.02-02.13.27:699][896]PIE: New page: PIE session: Level01 (2 Feb 2023, 02:13:27)
+[2023.02.02-02.13.27:699][896]LogPlayLevel: Creating play world package: /Game/GhostGang/Levels/UEDPIE_0_Level01
+[2023.02.02-02.13.27:718][896]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018042s)
+[2023.02.02-02.13.27:719][896]LogAIModule: Creating AISystem for world Level01
+[2023.02.02-02.13.27:720][896]LogPlayLevel: PIE: World Init took: (0.002113s)
+[2023.02.02-02.13.27:720][896]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GhostGang/Levels/Level01.Level01 to /Game/GhostGang/Levels/UEDPIE_0_Level01.Level01 (0.020417s)
+[2023.02.02-02.13.27:783][896]LogUObjectHash: Compacting FUObjectHashTables data took   5.88ms
+[2023.02.02-02.13.27:787][896]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.02.02-02.13.27:787][896]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.02-02.13.27:787][896]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.02-02.13.27:787][896]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.02-02.13.27:787][896]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.02-02.13.27:787][896]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.02-02.13.27:787][896]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.02-02.13.27:787][896]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.02-02.13.27:787][896]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.02-02.13.27:788][896]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.02-02.13.27:788][896]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.02-02.13.27:788][896]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.02-02.13.27:788][896]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.02-02.13.27:793][896]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.02-02.13.27:793][896]LogAudioMixer: Display: 1: FrontRight
+[2023.02.02-02.13.27:806][896]LogAudioMixer: Display: Using Audio Device Headphones (2- Hesh Evo)
+[2023.02.02-02.13.27:806][896]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.02-02.13.27:806][896]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.02-02.13.27:807][896]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.02-02.13.27:808][896]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.02-02.13.27:808][896]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.02-02.13.27:808][896]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.02-02.13.27:810][896]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.02-02.13.27:810][896]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.02-02.13.27:810][896]LogInit: FAudioDevice initialized.
+[2023.02.02-02.13.27:810][896]LogAudio: Display: Audio Device (ID: 3) registered with world 'Level01'.
+[2023.02.02-02.13.27:870][896]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.02-02.13.27:871][896]LogLoad: Game class is 'GhostMode_C'
+[2023.02.02-02.13.27:874][896]LogWorld: Bringing World /Game/GhostGang/Levels/UEDPIE_0_Level01.Level01 up for play (max tick rate 60) at 2023.02.02-02.13.27
+[2023.02.02-02.13.27:875][896]LogWorld: Bringing up level for play took: 0.003001
+[2023.02.02-02.13.27:876][896]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2023.02.02-02.13.27:884][896]PIE: Server logged in
+[2023.02.02-02.13.27:887][896]PIE: Play in editor total start time 0.189 seconds.
+[2023.02.02-02.13.31:785][971]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.02-02.13.31:785][971]LogWorld: BeginTearingDown for /Game/GhostGang/Levels/UEDPIE_0_Level01
+[2023.02.02-02.13.31:785][971]LogSlate: Window 'GhostGang Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2023.02.02-02.13.31:832][971]LogWorld: UWorld::CleanupWorld for Level01, bSessionEnded=true, bCleanupResources=true
+[2023.02.02-02.13.31:833][971]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.02-02.13.31:868][971]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.02-02.13.31:879][971]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.02-02.13.31:941][971]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.02-02.13.31:941][971]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.02-02.13.31:943][971]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.02-02.13.31:952][971]LogUObjectHash: Compacting FUObjectHashTables data took   5.19ms
+[2023.02.02-02.13.31:990][972]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2023.02.02-02.13.37:198][ 66]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.02-02.13.43:847][444]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.02.02-02.13.43:847][444]EditorErrors: Error: Failed to load class /Game/GhostGang/BP/LeapMotionPlayer.LeapMotionPlayer_C
+[2023.02.02-02.13.50:876][643]LogAssetEditorSubsystem: Error: Opening Asset editor failed because of null asset
+[2023.02.02-02.13.51:600][654]LogAssetEditorSubsystem: Error: Opening Asset editor failed because of null asset
+[2023.02.02-02.14.21:222][152]LogUObjectHash: Compacting FUObjectHashTables data took   5.90ms
+[2023.02.02-02.14.24:675][152]LogSlate: Window 'Save Content' being destroyed
+[2023.02.02-02.14.24:741][152]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GhostGang/BP/GhostMode" FILE="../../../../GhostGangHotel/GhostGang/Content/GhostGang/BP/GhostMode.uasset" SILENT=true
+[2023.02.02-02.14.24:748][152]LogSavePackage: Moving '../../../../GhostGangHotel/GhostGang/Saved/GhostMode67D6170A4E1DA6ED3523BE91ACA717B7.tmp' to '../../../../GhostGangHotel/GhostGang/Content/GhostGang/BP/GhostMode.uasset'
+[2023.02.02-02.14.24:750][152]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GhostGang/Levels/Level01" FILE="../../../../GhostGangHotel/GhostGang/Content/GhostGang/Levels/Level01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.02-02.14.24:823][152]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2023.02.02-02.14.24:894][152]LogSavePackage: Moving '../../../../GhostGangHotel/GhostGang/Saved/Level01DF6B521D4CE2C55B6C5518A6E800B885.tmp' to '../../../../GhostGangHotel/GhostGang/Content/GhostGang/Levels/Level01.umap'
+[2023.02.02-02.14.24:919][152]LogFileHelpers: Saving map 'Level01' took 0.169
+[2023.02.02-02.14.24:949][152]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.02-02.14.24:950][152]LogContentValidation: Display: Validating Blueprint /Game/GhostGang/BP/GhostMode.GhostMode
+[2023.02.02-02.14.24:950][152]LogContentValidation: Display: Validating World /Game/GhostGang/Levels/Level01.Level01
+[2023.02.02-02.14.29:011][255]LogAssetEditorSubsystem: Error: Opening Asset editor failed because of null asset
+[2023.02.02-02.14.29:886][267]LogAssetEditorSubsystem: Error: Opening Asset editor failed because of null asset
+[2023.02.02-02.14.30:208][273]LogAssetEditorSubsystem: Error: Opening Asset editor failed because of null asset
+[2023.02.02-02.14.30:542][278]LogAssetEditorSubsystem: Error: Opening Asset editor failed because of null asset
+[2023.02.02-02.15.39:756][176]LogSlate: Window 'Message' being destroyed
+[2023.02.02-02.15.39:775][176]Message dialog closed, result: Yes, title: Message, text: Are you sure you want to proceed with validating the following folders?
+
+/Game/GhostGang
+[2023.02.02-02.15.39:798][176]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/GhostGang/Levels/Level01_BuiltData.Level01_BuiltData
+[2023.02.02-02.15.39:798][176]LogContentValidation: Display: Validating Blueprint /Game/GhostGang/BP/HotelRoom.HotelRoom
+[2023.02.02-02.15.39:798][176]LogContentValidation: Display: Validating StaticMesh /Game/GhostGang/SM/Wall.Wall
+[2023.02.02-02.15.39:798][176]LogContentValidation: Display: Validating Blueprint /Game/GhostGang/BP/GhostMode.GhostMode
+[2023.02.02-02.15.39:798][176]LogContentValidation: Display: Validating Blueprint /Game/GhostGang/BP/BP_NewPlayerMan.BP_NewPlayerMan
+[2023.02.02-02.15.39:798][176]LogContentValidation: Display: Validating WidgetBlueprint /Game/GhostGang/BP/WDGT/HUD.HUD
+[2023.02.02-02.15.39:799][176]LogContentValidation: Display: Validating World /Game/GhostGang/Levels/Level01.Level01
+[2023.02.02-02.15.39:799][176]LogContentValidation: Display: Validating Blueprint /Game/GhostGang/BP/LPMTN_PlayerCamera.LeapMotionPlayer
+[2023.02.02-02.15.39:799][176]LogContentValidation: Display: Validating Blueprint /Game/GhostGang/BP/CustomButtonV2.CustomButtonV2
+[2023.02.02-02.15.39:800][176]LogContentValidation: Display: Validating Material /Game/GhostGang/Arrow_Mat.Arrow_Mat
+[2023.02.02-02.15.39:800][176]LogContentValidation: Display: Validating Texture2D /Game/GhostGang/Arrow.Arrow
+[2023.02.02-02.15.39:800][176]LogContentValidation: Display: Validating ObjectRedirector /Game/GhostGang/BP_NewPlayerMan.BP_NewPlayerMan
+[2023.02.02-02.15.39:803][176]LogContentValidation: Display: Validating ObjectRedirector /Game/GhostGang/BP_NewPlayerMan.BP_NewPlayerMan_C
+[2023.02.02-02.15.39:804][176]LogContentValidation: Display: Validating ObjectRedirector /Game/GhostGang/BP_NewPlayerMan.Default__BP_NewPlayerMan_C
+[2023.02.02-02.15.39:804][176]LogContentValidation: Display: Validating ObjectRedirector /Game/GhostGang/GhostMode.Default__GhostMode_C
+[2023.02.02-02.15.39:808][176]LogContentValidation: Display: Validating ObjectRedirector /Game/GhostGang/GhostMode.GhostMode
+[2023.02.02-02.15.39:808][176]LogContentValidation: Display: Validating ObjectRedirector /Game/GhostGang/GhostMode.GhostMode_C
+[2023.02.02-02.15.39:808][176]LogContentValidation: Display: Validating ObjectRedirector /Game/GhostGang/HotelRoom.Default__HotelRoom_C
+[2023.02.02-02.15.39:811][176]LogContentValidation: Display: Validating ObjectRedirector /Game/GhostGang/HotelRoom.HotelRoom
+[2023.02.02-02.15.39:811][176]LogContentValidation: Display: Validating ObjectRedirector /Game/GhostGang/HotelRoom.HotelRoom_C
+[2023.02.02-02.15.39:811][176]LogContentValidation: Display: Validating ObjectRedirector /Game/GhostGang/HUD.Default__HUD_C
+[2023.02.02-02.15.39:818][176]LogContentValidation: Display: Validating ObjectRedirector /Game/GhostGang/HUD.HUD
+[2023.02.02-02.15.39:818][176]LogContentValidation: Display: Validating ObjectRedirector /Game/GhostGang/HUD.HUD_C
+[2023.02.02-02.15.39:818][176]LogContentValidation: Display: Validating NiagaraSystem /Game/GhostGang/WaterFountainEffect.WaterFountainEffect
+[2023.02.02-02.15.40:023][176]LogContentValidation: Display: Validating NiagaraSystem /Game/GhostGang/WaterParticles.WaterParticles
+[2023.02.02-02.15.40:169][176]LogContentValidation: Display: Validating Blueprint /Game/GhostGang/BP/BP_npcTest.BP_npcTest
+[2023.02.02-02.15.40:198][176]LogContentValidation: Display: Validating ObjectRedirector /Game/GhostGang/BP/HUD.Default__HUD_C
+[2023.02.02-02.15.40:198][176]LogContentValidation: Display: Validating ObjectRedirector /Game/GhostGang/BP/HUD.HUD
+[2023.02.02-02.15.40:199][176]LogContentValidation: Display: Validating ObjectRedirector /Game/GhostGang/BP/HUD.HUD_C
+[2023.02.02-02.15.40:199][176]LogContentValidation: Display: Validating WidgetBlueprint /Game/GhostGang/BP/WDGT/MainMenu.MainMenu
+[2023.02.02-02.15.40:244][176]LogContentValidation: Display: Validating World /Game/GhostGang/Levels/MenuLevel.MenuLevel
+[2023.02.02-02.15.40:314][176]AssetCheck: Data validation SUCCEEDED.
+[2023.02.02-02.15.40:314][176]AssetCheck: Files Checked: 31, Passed: 31, Failed: 0, Skipped: 0, Unable to validate: 0
+[2023.02.02-02.15.45:765][368]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GhostGang/HUD" FILE="../../../../GhostGangHotel/GhostGang/Content/GhostGang/HUD.uasset" SILENT=true
+[2023.02.02-02.15.45:767][368]LogSavePackage: Moving '../../../../GhostGangHotel/GhostGang/Saved/HUD3EFE2E4C4055F4C19A14E2A82D4F372F.tmp' to '../../../../GhostGangHotel/GhostGang/Content/GhostGang/HUD.uasset'
+[2023.02.02-02.15.45:884][368]LogUObjectHash: Compacting FUObjectHashTables data took   6.19ms
+[2023.02.02-02.15.46:978][368]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2023.02.02-02.15.47:041][368]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.02.02-02.15.47:106][368]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2023.02.02-02.15.47:168][368]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.02.02-02.15.47:234][368]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2023.02.02-02.15.47:315][368]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2023.02.02-02.15.47:378][368]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2023.02.02-02.15.47:398][368]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.02-02.16.08:447][996]LogSlate: Window 'Message' being destroyed
+[2023.02.02-02.16.08:466][996]Message dialog closed, result: Yes, title: Message, text: Are you sure you want to proceed with validating the following folders?
+
+/Game/GhostGang/BP
+[2023.02.02-02.16.08:488][996]LogContentValidation: Display: Validating Blueprint /Game/GhostGang/BP/HotelRoom.HotelRoom
+[2023.02.02-02.16.08:489][996]LogContentValidation: Display: Validating Blueprint /Game/GhostGang/BP/GhostMode.GhostMode
+[2023.02.02-02.16.08:489][996]LogContentValidation: Display: Validating Blueprint /Game/GhostGang/BP/BP_NewPlayerMan.BP_NewPlayerMan
+[2023.02.02-02.16.08:489][996]LogContentValidation: Display: Validating WidgetBlueprint /Game/GhostGang/BP/WDGT/HUD.HUD
+[2023.02.02-02.16.08:490][996]LogContentValidation: Display: Validating Blueprint /Game/GhostGang/BP/LPMTN_PlayerCamera.LeapMotionPlayer
+[2023.02.02-02.16.08:490][996]LogContentValidation: Display: Validating Blueprint /Game/GhostGang/BP/CustomButtonV2.CustomButtonV2
+[2023.02.02-02.16.08:490][996]LogContentValidation: Display: Validating Blueprint /Game/GhostGang/BP/BP_npcTest.BP_npcTest
+[2023.02.02-02.16.08:490][996]LogContentValidation: Display: Validating WidgetBlueprint /Game/GhostGang/BP/WDGT/MainMenu.MainMenu
+[2023.02.02-02.16.08:492][996]AssetCheck: Data validation SUCCEEDED.
+[2023.02.02-02.16.08:493][996]AssetCheck: Files Checked: 8, Passed: 8, Failed: 0, Skipped: 0, Unable to validate: 0
+[2023.02.02-02.16.14:405][141]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GhostGang/BP/LPMTN_PlayerCamera.LeapMotionPlayer
+[2023.02.02-02.16.15:295][141]LogTemp: Bone cache synced: 20
+[2023.02.02-02.16.15:295][141]LogTemp: Bone cache synced: 20
+[2023.02.02-02.16.15:297][141]LogTemp: Bone cache synced: 20
+[2023.02.02-02.16.15:297][141]LogTemp: Bone cache synced: 20
+[2023.02.02-02.16.15:300][141]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2023.02.02-02.16.15:301][141]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.02.02-02.16.36:129][244]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.02.02-02.16.36:141][244]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.02-02.16.36:142][244]PIE: New page: PIE session: Level01 (2 Feb 2023, 02:16:36)
+[2023.02.02-02.16.36:142][244]LogPlayLevel: Creating play world package: /Game/GhostGang/Levels/UEDPIE_0_Level01
+[2023.02.02-02.16.36:164][244]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021551s)
+[2023.02.02-02.16.36:165][244]LogAIModule: Creating AISystem for world Level01
+[2023.02.02-02.16.36:165][244]LogPlayLevel: PIE: World Init took: (0.001613s)
+[2023.02.02-02.16.36:165][244]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GhostGang/Levels/Level01.Level01 to /Game/GhostGang/Levels/UEDPIE_0_Level01.Level01 (0.023387s)
+[2023.02.02-02.16.36:251][244]LogUObjectHash: Compacting FUObjectHashTables data took   5.60ms
+[2023.02.02-02.16.36:256][244]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.02.02-02.16.36:256][244]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.02-02.16.36:256][244]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.02-02.16.36:256][244]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.02-02.16.36:256][244]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.02-02.16.36:256][244]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.02-02.16.36:256][244]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.02-02.16.36:256][244]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.02-02.16.36:256][244]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.02-02.16.36:257][244]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.02-02.16.36:257][244]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.02-02.16.36:257][244]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.02-02.16.36:257][244]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.02-02.16.36:263][244]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.02-02.16.36:263][244]LogAudioMixer: Display: 1: FrontRight
+[2023.02.02-02.16.36:276][244]LogAudioMixer: Display: Using Audio Device Headphones (2- Hesh Evo)
+[2023.02.02-02.16.36:276][244]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.02-02.16.36:276][244]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.02-02.16.36:276][244]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.02-02.16.36:277][244]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.02-02.16.36:277][244]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.02-02.16.36:277][244]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.02-02.16.36:279][244]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.02-02.16.36:279][244]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.02-02.16.36:279][244]LogInit: FAudioDevice initialized.
+[2023.02.02-02.16.36:279][244]LogAudio: Display: Audio Device (ID: 4) registered with world 'Level01'.
+[2023.02.02-02.16.36:346][244]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.02-02.16.36:346][244]LogLoad: Game class is 'GhostMode_C'
+[2023.02.02-02.16.36:350][244]LogWorld: Bringing World /Game/GhostGang/Levels/UEDPIE_0_Level01.Level01 up for play (max tick rate 60) at 2023.02.02-02.16.36
+[2023.02.02-02.16.36:351][244]LogWorld: Bringing up level for play took: 0.003341
+[2023.02.02-02.16.36:351][244]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2023.02.02-02.16.36:360][244]PIE: Server logged in
+[2023.02.02-02.16.36:363][244]PIE: Play in editor total start time 0.223 seconds.
+[2023.02.02-02.16.38:880][291]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.02-02.16.38:880][291]LogWorld: BeginTearingDown for /Game/GhostGang/Levels/UEDPIE_0_Level01
+[2023.02.02-02.16.38:881][291]LogSlate: Window 'GhostGang Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2023.02.02-02.16.38:918][291]LogWorld: UWorld::CleanupWorld for Level01, bSessionEnded=true, bCleanupResources=true
+[2023.02.02-02.16.38:919][291]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.02-02.16.38:946][291]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.02-02.16.38:961][291]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.02-02.16.39:056][291]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.02-02.16.39:057][291]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.02-02.16.39:058][291]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.02-02.16.39:070][291]LogUObjectHash: Compacting FUObjectHashTables data took   5.45ms
+[2023.02.02-02.16.39:134][292]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2023.02.02-02.16.40:506][328]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.02.02-02.16.40:553][328]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.02-02.16.45:116][529]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GhostGang/Levels/Level01" FILE="../../../../GhostGangHotel/GhostGang/Content/GhostGang/Levels/Level01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.02-02.16.45:206][529]LogUObjectHash: Compacting FUObjectHashTables data took   5.84ms
+[2023.02.02-02.16.45:258][529]LogSavePackage: Moving '../../../../GhostGangHotel/GhostGang/Saved/Level017831943248A8F09061091C9868209942.tmp' to '../../../../GhostGangHotel/GhostGang/Content/GhostGang/Levels/Level01.umap'
+[2023.02.02-02.16.45:282][529]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GhostGang/Levels/Level01_BuiltData" FILE="../../../../GhostGangHotel/GhostGang/Content/GhostGang/Levels/Level01_BuiltData.uasset" SILENT=true
+[2023.02.02-02.16.45:332][529]LogSavePackage: Moving '../../../../GhostGangHotel/GhostGang/Saved/Level01_BuiltData278E55F74A4DB954839FEB98CCEA5F6E.tmp' to '../../../../GhostGangHotel/GhostGang/Content/GhostGang/Levels/Level01_BuiltData.uasset'
+[2023.02.02-02.16.45:362][529]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.02-02.16.45:362][529]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/GhostGang/Levels/Level01_BuiltData.Level01_BuiltData
+[2023.02.02-02.16.45:362][529]LogContentValidation: Display: Validating World /Game/GhostGang/Levels/Level01.Level01
+[2023.02.02-02.16.50:739][746]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.02.02-02.16.50:753][746]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.02-02.16.50:753][746]PIE: New page: PIE session: Level01 (2 Feb 2023, 02:16:50)
+[2023.02.02-02.16.50:753][746]LogPlayLevel: Creating play world package: /Game/GhostGang/Levels/UEDPIE_0_Level01
+[2023.02.02-02.16.50:772][746]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018818s)
+[2023.02.02-02.16.50:773][746]LogAIModule: Creating AISystem for world Level01
+[2023.02.02-02.16.50:774][746]LogPlayLevel: PIE: World Init took: (0.001792s)
+[2023.02.02-02.16.50:774][746]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GhostGang/Levels/Level01.Level01 to /Game/GhostGang/Levels/UEDPIE_0_Level01.Level01 (0.020852s)
+[2023.02.02-02.16.50:843][746]LogUObjectHash: Compacting FUObjectHashTables data took   5.95ms
+[2023.02.02-02.16.50:844][746]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.02.02-02.16.50:844][746]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.02-02.16.50:844][746]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.02-02.16.50:844][746]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.02-02.16.50:844][746]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.02-02.16.50:844][746]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.02-02.16.50:844][746]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.02-02.16.50:844][746]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.02-02.16.50:844][746]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.02-02.16.50:845][746]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.02-02.16.50:845][746]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.02-02.16.50:845][746]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.02-02.16.50:845][746]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.02-02.16.50:850][746]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.02-02.16.50:850][746]LogAudioMixer: Display: 1: FrontRight
+[2023.02.02-02.16.50:864][746]LogAudioMixer: Display: Using Audio Device Headphones (2- Hesh Evo)
+[2023.02.02-02.16.50:864][746]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.02-02.16.50:864][746]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.02-02.16.50:864][746]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.02-02.16.50:865][746]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.02-02.16.50:865][746]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.02-02.16.50:865][746]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.02-02.16.50:866][746]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.02-02.16.50:866][746]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.02-02.16.50:866][746]LogInit: FAudioDevice initialized.
+[2023.02.02-02.16.50:866][746]LogAudio: Display: Audio Device (ID: 5) registered with world 'Level01'.
+[2023.02.02-02.16.50:927][746]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.02-02.16.50:927][746]LogLoad: Game class is 'GhostMode_C'
+[2023.02.02-02.16.50:930][746]LogWorld: Bringing World /Game/GhostGang/Levels/UEDPIE_0_Level01.Level01 up for play (max tick rate 60) at 2023.02.02-02.16.50
+[2023.02.02-02.16.50:931][746]LogWorld: Bringing up level for play took: 0.003186
+[2023.02.02-02.16.50:932][746]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2023.02.02-02.16.50:938][746]LogTemp: Bone cache synced: 20
+[2023.02.02-02.16.50:938][746]LogTemp: Bone cache synced: 20
+[2023.02.02-02.16.50:938][746]LogTemp: Bone cache synced: 20
+[2023.02.02-02.16.50:938][746]LogTemp: Bone cache synced: 20
+[2023.02.02-02.16.50:998][746]PIE: Server logged in
+[2023.02.02-02.16.51:001][746]PIE: Play in editor total start time 0.25 seconds.
+[2023.02.02-02.17.02:791][947]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.02-02.17.02:791][947]LogWorld: BeginTearingDown for /Game/GhostGang/Levels/UEDPIE_0_Level01
+[2023.02.02-02.17.02:793][947]LogSlate: Window 'GhostGang Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2023.02.02-02.17.02:873][947]LogWorld: UWorld::CleanupWorld for Level01, bSessionEnded=true, bCleanupResources=true
+[2023.02.02-02.17.02:880][947]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.02-02.17.02:898][947]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.02-02.17.02:913][947]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.02-02.17.02:997][947]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.02-02.17.02:998][947]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.02-02.17.03:013][947]LogUObjectHash: Compacting FUObjectHashTables data took   6.05ms
+[2023.02.02-02.17.03:049][948]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2023.02.02-02.17.43:365][ 74]BlueprintLog: New page: Compile HotelRoom
+[2023.02.02-02.17.43:537][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   6.43ms
+[2023.02.02-02.17.43:562][ 74]LogTemp: Bone cache synced: 20
+[2023.02.02-02.17.43:562][ 74]LogTemp: Bone cache synced: 20
+[2023.02.02-02.17.43:562][ 74]LogTemp: Bone cache synced: 20
+[2023.02.02-02.17.43:562][ 74]LogTemp: Bone cache synced: 20
+[2023.02.02-02.17.43:571][ 74]LogTemp: Bone cache synced: 20
+[2023.02.02-02.17.43:571][ 74]LogTemp: Bone cache synced: 20
+[2023.02.02-02.17.43:572][ 74]LogTemp: Bone cache synced: 20
+[2023.02.02-02.17.43:572][ 74]LogTemp: Bone cache synced: 20
+[2023.02.02-02.17.43:600][ 74]LogTemp: Bone cache synced: 20
+[2023.02.02-02.17.43:600][ 74]LogTemp: Bone cache synced: 20
+[2023.02.02-02.17.43:601][ 74]LogTemp: Bone cache synced: 20
+[2023.02.02-02.17.43:601][ 74]LogTemp: Bone cache synced: 20
+[2023.02.02-02.17.43:612][ 74]LogTemp: Bone cache synced: 20
+[2023.02.02-02.17.43:612][ 74]LogTemp: Bone cache synced: 20
+[2023.02.02-02.17.43:613][ 74]LogTemp: Bone cache synced: 20
+[2023.02.02-02.17.43:613][ 74]LogTemp: Bone cache synced: 20
+[2023.02.02-02.17.44:177][ 97]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GhostGang/BP/HotelRoom" FILE="../../../../GhostGangHotel/GhostGang/Content/GhostGang/BP/HotelRoom.uasset" SILENT=true
+[2023.02.02-02.17.44:216][ 97]LogSavePackage: Moving '../../../../GhostGangHotel/GhostGang/Saved/HotelRoomE7FF43A24EF744B24B82D283A78F530D.tmp' to '../../../../GhostGangHotel/GhostGang/Content/GhostGang/BP/HotelRoom.uasset'
+[2023.02.02-02.17.44:288][ 97]AssetCheck: New page: Asset Save: HotelRoom
+[2023.02.02-02.17.44:288][ 97]LogContentValidation: Display: Validating Blueprint /Game/GhostGang/BP/HotelRoom.HotelRoom
+[2023.02.02-02.17.46:771][181]LogUObjectHash: Compacting FUObjectHashTables data took   8.33ms
+[2023.02.02-02.17.48:280][181]LogSlate: Window 'Save Content' being destroyed
+[2023.02.02-02.17.48:374][181]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GhostGang/BP/GhostMode" FILE="../../../../GhostGangHotel/GhostGang/Content/GhostGang/BP/GhostMode.uasset" SILENT=true
+[2023.02.02-02.17.48:382][181]LogSavePackage: Moving '../../../../GhostGangHotel/GhostGang/Saved/GhostModeD5C80CF9419218AA5F7DFEA2378DB1B2.tmp' to '../../../../GhostGangHotel/GhostGang/Content/GhostGang/BP/GhostMode.uasset'
+[2023.02.02-02.17.48:384][181]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GhostGang/Levels/Level01" FILE="../../../../GhostGangHotel/GhostGang/Content/GhostGang/Levels/Level01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.02-02.17.48:469][181]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2023.02.02-02.17.48:524][181]LogSavePackage: Moving '../../../../GhostGangHotel/GhostGang/Saved/Level01048388E24F061849078E28A9CC04B581.tmp' to '../../../../GhostGangHotel/GhostGang/Content/GhostGang/Levels/Level01.umap'
+[2023.02.02-02.17.48:545][181]LogFileHelpers: Saving map 'Level01' took 0.161
+[2023.02.02-02.17.48:576][181]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.02-02.17.48:576][181]LogContentValidation: Display: Validating Blueprint /Game/GhostGang/BP/GhostMode.GhostMode
+[2023.02.02-02.17.48:576][181]LogContentValidation: Display: Validating World /Game/GhostGang/Levels/Level01.Level01
+[2023.02.02-02.17.52:663][272]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.02.02-02.17.52:677][272]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.02-02.17.52:677][272]PIE: New page: PIE session: Level01 (2 Feb 2023, 02:17:52)
+[2023.02.02-02.17.52:677][272]LogPlayLevel: Creating play world package: /Game/GhostGang/Levels/UEDPIE_0_Level01
+[2023.02.02-02.17.52:705][272]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026371s)
+[2023.02.02-02.17.52:707][272]LogAIModule: Creating AISystem for world Level01
+[2023.02.02-02.17.52:708][272]LogPlayLevel: PIE: World Init took: (0.002749s)
+[2023.02.02-02.17.52:708][272]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GhostGang/Levels/Level01.Level01 to /Game/GhostGang/Levels/UEDPIE_0_Level01.Level01 (0.029492s)
+[2023.02.02-02.17.52:792][272]LogUObjectHash: Compacting FUObjectHashTables data took   7.61ms
+[2023.02.02-02.17.52:794][272]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.02.02-02.17.52:794][272]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.02-02.17.52:794][272]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.02-02.17.52:794][272]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.02-02.17.52:794][272]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.02-02.17.52:794][272]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.02-02.17.52:794][272]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.02-02.17.52:794][272]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.02-02.17.52:794][272]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.02-02.17.52:795][272]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.02-02.17.52:795][272]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.02-02.17.52:795][272]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.02-02.17.52:795][272]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.02-02.17.52:801][272]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.02-02.17.52:801][272]LogAudioMixer: Display: 1: FrontRight
+[2023.02.02-02.17.52:814][272]LogAudioMixer: Display: Using Audio Device Headphones (2- Hesh Evo)
+[2023.02.02-02.17.52:815][272]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.02-02.17.52:815][272]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.02-02.17.52:815][272]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.02-02.17.52:815][272]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.02-02.17.52:816][272]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.02-02.17.52:816][272]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.02-02.17.52:817][272]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.02-02.17.52:817][272]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.02-02.17.52:817][272]LogInit: FAudioDevice initialized.
+[2023.02.02-02.17.52:817][272]LogAudio: Display: Audio Device (ID: 6) registered with world 'Level01'.
+[2023.02.02-02.17.52:892][272]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.02-02.17.52:892][272]LogLoad: Game class is 'GhostMode_C'
+[2023.02.02-02.17.52:895][272]LogWorld: Bringing World /Game/GhostGang/Levels/UEDPIE_0_Level01.Level01 up for play (max tick rate 60) at 2023.02.02-02.17.52
+[2023.02.02-02.17.52:895][272]LogWorld: Bringing up level for play took: 0.002517
+[2023.02.02-02.17.52:896][272]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2023.02.02-02.17.52:902][272]LogTemp: Bone cache synced: 20
+[2023.02.02-02.17.52:902][272]LogTemp: Bone cache synced: 20
+[2023.02.02-02.17.52:902][272]LogTemp: Bone cache synced: 20
+[2023.02.02-02.17.52:902][272]LogTemp: Bone cache synced: 20
+[2023.02.02-02.17.52:949][272]PIE: Server logged in
+[2023.02.02-02.17.52:952][272]PIE: Play in editor total start time 0.278 seconds.
+[2023.02.02-02.17.59:514][384]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.02-02.17.59:514][384]LogWorld: BeginTearingDown for /Game/GhostGang/Levels/UEDPIE_0_Level01
+[2023.02.02-02.17.59:516][384]LogSlate: Window 'GhostGang Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2023.02.02-02.17.59:573][384]LogWorld: UWorld::CleanupWorld for Level01, bSessionEnded=true, bCleanupResources=true
+[2023.02.02-02.17.59:580][384]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.02-02.17.59:599][384]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.02-02.17.59:614][384]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.02-02.17.59:705][384]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.02-02.17.59:707][384]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.02-02.17.59:724][384]LogUObjectHash: Compacting FUObjectHashTables data took   8.06ms
+[2023.02.02-02.17.59:767][385]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2023.02.02-02.18.26:351][741]BlueprintLog: New page: Compile LeapMotionPlayer
+[2023.02.02-02.18.26:417][741]LogTemp: Bone cache synced: 20
+[2023.02.02-02.18.26:417][741]LogTemp: Bone cache synced: 20
+[2023.02.02-02.18.26:417][741]LogTemp: Bone cache synced: 20
+[2023.02.02-02.18.26:417][741]LogTemp: Bone cache synced: 20
+[2023.02.02-02.18.26:429][741]LogTemp: Bone cache synced: 20
+[2023.02.02-02.18.26:429][741]LogTemp: Bone cache synced: 20
+[2023.02.02-02.18.26:430][741]LogTemp: Bone cache synced: 20
+[2023.02.02-02.18.26:430][741]LogTemp: Bone cache synced: 20
+[2023.02.02-02.18.26:552][741]LogUObjectHash: Compacting FUObjectHashTables data took   5.92ms
+[2023.02.02-02.18.26:569][741]LogTemp: Bone cache synced: 20
+[2023.02.02-02.18.26:570][741]LogTemp: Bone cache synced: 20
+[2023.02.02-02.18.26:570][741]LogTemp: Bone cache synced: 20
+[2023.02.02-02.18.26:570][741]LogTemp: Bone cache synced: 20
+[2023.02.02-02.18.26:580][741]LogTemp: Bone cache synced: 20
+[2023.02.02-02.18.26:580][741]LogTemp: Bone cache synced: 20
+[2023.02.02-02.18.26:581][741]LogTemp: Bone cache synced: 20
+[2023.02.02-02.18.26:581][741]LogTemp: Bone cache synced: 20
+[2023.02.02-02.18.26:626][741]LogTemp: Bone cache synced: 20
+[2023.02.02-02.18.26:626][741]LogTemp: Bone cache synced: 20
+[2023.02.02-02.18.26:627][741]LogTemp: Bone cache synced: 20
+[2023.02.02-02.18.26:627][741]LogTemp: Bone cache synced: 20
+[2023.02.02-02.18.26:636][741]LogTemp: Bone cache synced: 20
+[2023.02.02-02.18.26:636][741]LogTemp: Bone cache synced: 20
+[2023.02.02-02.18.26:637][741]LogTemp: Bone cache synced: 20
+[2023.02.02-02.18.26:637][741]LogTemp: Bone cache synced: 20
+[2023.02.02-02.18.26:962][744]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GhostGang/BP/LPMTN_PlayerCamera" FILE="../../../../GhostGangHotel/GhostGang/Content/GhostGang/BP/LPMTN_PlayerCamera.uasset" SILENT=true
+[2023.02.02-02.18.27:046][744]LogSavePackage: Moving '../../../../GhostGangHotel/GhostGang/Saved/LPMTN_PlayerCamera011C6A794DABC6BA0E7AFB8B993E6FF9.tmp' to '../../../../GhostGangHotel/GhostGang/Content/GhostGang/BP/LPMTN_PlayerCamera.uasset'
+[2023.02.02-02.18.27:082][744]AssetCheck: New page: Asset Save: LeapMotionPlayer
+[2023.02.02-02.18.27:082][744]LogContentValidation: Display: Validating Blueprint /Game/GhostGang/BP/LPMTN_PlayerCamera.LeapMotionPlayer
+[2023.02.02-02.18.30:166][887]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.02.02-02.18.30:175][887]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.02-02.18.30:175][887]PIE: New page: PIE session: Level01 (2 Feb 2023, 02:18:30)
+[2023.02.02-02.18.30:176][887]LogPlayLevel: Creating play world package: /Game/GhostGang/Levels/UEDPIE_0_Level01
+[2023.02.02-02.18.30:194][887]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018887s)
+[2023.02.02-02.18.30:195][887]LogAIModule: Creating AISystem for world Level01
+[2023.02.02-02.18.30:196][887]LogPlayLevel: PIE: World Init took: (0.001805s)
+[2023.02.02-02.18.30:196][887]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GhostGang/Levels/Level01.Level01 to /Game/GhostGang/Levels/UEDPIE_0_Level01.Level01 (0.020949s)
+[2023.02.02-02.18.30:285][887]LogUObjectHash: Compacting FUObjectHashTables data took   6.54ms
+[2023.02.02-02.18.30:287][887]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.02.02-02.18.30:287][887]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.02-02.18.30:287][887]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.02-02.18.30:287][887]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.02-02.18.30:287][887]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.02-02.18.30:287][887]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.02-02.18.30:287][887]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.02-02.18.30:287][887]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.02-02.18.30:287][887]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.02-02.18.30:288][887]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.02-02.18.30:288][887]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.02-02.18.30:288][887]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.02-02.18.30:288][887]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.02-02.18.30:292][887]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.02-02.18.30:292][887]LogAudioMixer: Display: 1: FrontRight
+[2023.02.02-02.18.30:304][887]LogAudioMixer: Display: Using Audio Device Headphones (2- Hesh Evo)
+[2023.02.02-02.18.30:305][887]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.02-02.18.30:305][887]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.02-02.18.30:305][887]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.02-02.18.30:306][887]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.02-02.18.30:306][887]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.02-02.18.30:306][887]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.02-02.18.30:308][887]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.02-02.18.30:308][887]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.02-02.18.30:308][887]LogInit: FAudioDevice initialized.
+[2023.02.02-02.18.30:308][887]LogAudio: Display: Audio Device (ID: 7) registered with world 'Level01'.
+[2023.02.02-02.18.30:371][887]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.02-02.18.30:371][887]LogLoad: Game class is 'GhostMode_C'
+[2023.02.02-02.18.30:375][887]LogWorld: Bringing World /Game/GhostGang/Levels/UEDPIE_0_Level01.Level01 up for play (max tick rate 60) at 2023.02.02-02.18.30
+[2023.02.02-02.18.30:376][887]LogWorld: Bringing up level for play took: 0.003328
+[2023.02.02-02.18.30:377][887]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2023.02.02-02.18.30:383][887]LogTemp: Bone cache synced: 20
+[2023.02.02-02.18.30:383][887]LogTemp: Bone cache synced: 20
+[2023.02.02-02.18.30:383][887]LogTemp: Bone cache synced: 20
+[2023.02.02-02.18.30:384][887]LogTemp: Bone cache synced: 20
+[2023.02.02-02.18.30:435][887]PIE: Server logged in
+[2023.02.02-02.18.30:440][887]PIE: Play in editor total start time 0.267 seconds.
+[2023.02.02-02.18.32:700][925]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.32:755][926]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.32:815][927]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.32:873][928]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.32:930][929]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.32:989][930]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.33:045][931]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.33:101][932]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.33:160][933]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.33:216][934]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.33:272][935]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.33:331][936]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.33:389][937]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.33:446][938]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.33:503][939]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.33:560][940]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.33:617][941]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.33:676][942]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.33:735][943]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.33:795][944]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.33:852][945]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.33:909][946]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.33:964][947]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.34:022][948]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.34:078][949]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.34:134][950]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.34:193][951]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.34:250][952]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.34:308][953]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.34:366][954]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.34:426][955]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.34:482][956]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.34:540][957]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.34:598][958]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.34:655][959]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.34:711][960]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.34:769][961]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.34:828][962]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.34:887][963]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.34:948][964]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.35:011][965]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.35:072][966]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.35:133][967]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.35:195][968]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.35:255][969]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.35:316][970]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.35:374][971]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.35:429][972]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.35:486][973]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.35:553][974]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.35:604][975]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.35:666][976]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.35:725][977]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.35:782][978]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.35:840][979]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.35:899][980]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.35:957][981]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.36:015][982]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.36:075][983]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.36:133][984]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.36:196][985]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.36:255][986]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.36:317][987]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.36:376][988]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.36:435][989]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.36:495][990]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.36:555][991]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.36:612][992]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.36:671][993]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.36:728][994]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.36:782][995]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.36:838][996]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.36:896][997]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.36:953][998]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.37:013][999]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.37:069][  0]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.37:126][  1]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.37:182][  2]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.37:242][  3]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.37:298][  4]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.37:356][  5]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.37:420][  6]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.37:476][  7]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.37:533][  8]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.37:592][  9]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.37:651][ 10]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.37:712][ 11]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.37:770][ 12]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.37:828][ 13]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.37:885][ 14]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.37:946][ 15]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.38:005][ 16]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.38:065][ 17]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.38:124][ 18]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.38:184][ 19]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.38:243][ 20]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.38:300][ 21]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.38:358][ 22]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.38:416][ 23]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.38:479][ 24]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.38:536][ 25]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.38:594][ 26]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.38:651][ 27]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.38:711][ 28]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.38:768][ 29]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.38:830][ 30]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.38:890][ 31]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.38:949][ 32]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.39:012][ 33]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.39:074][ 34]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.39:132][ 35]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.39:193][ 36]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.39:250][ 37]LogBlueprintUserMessages: [LeapMotionPlayer_C_0] true
+[2023.02.02-02.18.39:295][ 37]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.02-02.18.39:295][ 37]LogWorld: BeginTearingDown for /Game/GhostGang/Levels/UEDPIE_0_Level01
+[2023.02.02-02.18.39:296][ 37]LogSlate: Window 'GhostGang Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2023.02.02-02.18.39:354][ 37]LogWorld: UWorld::CleanupWorld for Level01, bSessionEnded=true, bCleanupResources=true
+[2023.02.02-02.18.39:362][ 37]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.02-02.18.39:378][ 37]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.02-02.18.39:392][ 37]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.02-02.18.39:482][ 37]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.02-02.18.39:483][ 37]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.02-02.18.39:485][ 37]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.02-02.18.39:500][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   5.83ms
+[2023.02.02-02.18.39:542][ 38]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2023.02.02-02.19.40:347][295]BlueprintLog: New page: Compile HotelRoom
+[2023.02.02-02.19.40:538][295]LogUObjectHash: Compacting FUObjectHashTables data took   7.99ms
+[2023.02.02-02.19.40:560][295]LogTemp: Bone cache synced: 20
+[2023.02.02-02.19.40:561][295]LogTemp: Bone cache synced: 20
+[2023.02.02-02.19.40:561][295]LogTemp: Bone cache synced: 20
+[2023.02.02-02.19.40:561][295]LogTemp: Bone cache synced: 20
+[2023.02.02-02.19.40:571][295]LogTemp: Bone cache synced: 20
+[2023.02.02-02.19.40:571][295]LogTemp: Bone cache synced: 20
+[2023.02.02-02.19.40:571][295]LogTemp: Bone cache synced: 20
+[2023.02.02-02.19.40:571][295]LogTemp: Bone cache synced: 20
+[2023.02.02-02.19.40:596][295]LogTemp: Bone cache synced: 20
+[2023.02.02-02.19.40:596][295]LogTemp: Bone cache synced: 20
+[2023.02.02-02.19.40:597][295]LogTemp: Bone cache synced: 20
+[2023.02.02-02.19.40:597][295]LogTemp: Bone cache synced: 20
+[2023.02.02-02.19.40:606][295]LogTemp: Bone cache synced: 20
+[2023.02.02-02.19.40:607][295]LogTemp: Bone cache synced: 20
+[2023.02.02-02.19.40:607][295]LogTemp: Bone cache synced: 20
+[2023.02.02-02.19.40:607][295]LogTemp: Bone cache synced: 20
+[2023.02.02-02.19.40:900][302]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GhostGang/BP/HotelRoom" FILE="../../../../GhostGangHotel/GhostGang/Content/GhostGang/BP/HotelRoom.uasset" SILENT=true
+[2023.02.02-02.19.40:928][302]LogSavePackage: Moving '../../../../GhostGangHotel/GhostGang/Saved/HotelRoomBAA25E0C45AF3DC1501DB397EBD43830.tmp' to '../../../../GhostGangHotel/GhostGang/Content/GhostGang/BP/HotelRoom.uasset'
+[2023.02.02-02.19.40:963][302]AssetCheck: New page: Asset Save: HotelRoom
+[2023.02.02-02.19.40:963][302]LogContentValidation: Display: Validating Blueprint /Game/GhostGang/BP/HotelRoom.HotelRoom
+[2023.02.02-02.19.54:862][ 47]BlueprintLog: New page: Compile HotelRoom
+[2023.02.02-02.19.55:009][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   7.07ms
+[2023.02.02-02.19.55:031][ 47]LogTemp: Bone cache synced: 20
+[2023.02.02-02.19.55:031][ 47]LogTemp: Bone cache synced: 20
+[2023.02.02-02.19.55:032][ 47]LogTemp: Bone cache synced: 20
+[2023.02.02-02.19.55:032][ 47]LogTemp: Bone cache synced: 20
+[2023.02.02-02.19.55:042][ 47]LogTemp: Bone cache synced: 20
+[2023.02.02-02.19.55:043][ 47]LogTemp: Bone cache synced: 20
+[2023.02.02-02.19.55:043][ 47]LogTemp: Bone cache synced: 20
+[2023.02.02-02.19.55:043][ 47]LogTemp: Bone cache synced: 20
+[2023.02.02-02.19.55:068][ 47]LogTemp: Bone cache synced: 20
+[2023.02.02-02.19.55:068][ 47]LogTemp: Bone cache synced: 20
+[2023.02.02-02.19.55:068][ 47]LogTemp: Bone cache synced: 20
+[2023.02.02-02.19.55:069][ 47]LogTemp: Bone cache synced: 20
+[2023.02.02-02.19.55:079][ 47]LogTemp: Bone cache synced: 20
+[2023.02.02-02.19.55:079][ 47]LogTemp: Bone cache synced: 20
+[2023.02.02-02.19.55:080][ 47]LogTemp: Bone cache synced: 20
+[2023.02.02-02.19.55:080][ 47]LogTemp: Bone cache synced: 20
+[2023.02.02-02.19.55:515][ 63]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GhostGang/BP/HotelRoom" FILE="../../../../GhostGangHotel/GhostGang/Content/GhostGang/BP/HotelRoom.uasset" SILENT=true
+[2023.02.02-02.19.55:546][ 63]LogSavePackage: Moving '../../../../GhostGangHotel/GhostGang/Saved/HotelRoom684044644323F733532FC19007350DB5.tmp' to '../../../../GhostGangHotel/GhostGang/Content/GhostGang/BP/HotelRoom.uasset'
+[2023.02.02-02.19.55:594][ 63]AssetCheck: New page: Asset Save: HotelRoom
+[2023.02.02-02.19.55:594][ 63]LogContentValidation: Display: Validating Blueprint /Game/GhostGang/BP/HotelRoom.HotelRoom
+[2023.02.02-02.21.21:657][872]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.02.02-02.21.21:711][872]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.02-02.21.56:765][784]BlueprintLog: New page: Compile HotelRoom
+[2023.02.02-02.21.56:946][784]LogUObjectHash: Compacting FUObjectHashTables data took   9.29ms
+[2023.02.02-02.21.56:973][784]LogTemp: Bone cache synced: 20
+[2023.02.02-02.21.56:973][784]LogTemp: Bone cache synced: 20
+[2023.02.02-02.21.56:973][784]LogTemp: Bone cache synced: 20
+[2023.02.02-02.21.56:973][784]LogTemp: Bone cache synced: 20
+[2023.02.02-02.21.56:984][784]LogTemp: Bone cache synced: 20
+[2023.02.02-02.21.56:985][784]LogTemp: Bone cache synced: 20
+[2023.02.02-02.21.56:985][784]LogTemp: Bone cache synced: 20
+[2023.02.02-02.21.56:985][784]LogTemp: Bone cache synced: 20
+[2023.02.02-02.21.57:008][784]LogTemp: Bone cache synced: 20
+[2023.02.02-02.21.57:008][784]LogTemp: Bone cache synced: 20
+[2023.02.02-02.21.57:009][784]LogTemp: Bone cache synced: 20
+[2023.02.02-02.21.57:009][784]LogTemp: Bone cache synced: 20
+[2023.02.02-02.21.57:018][784]LogTemp: Bone cache synced: 20
+[2023.02.02-02.21.57:018][784]LogTemp: Bone cache synced: 20
+[2023.02.02-02.21.57:018][784]LogTemp: Bone cache synced: 20
+[2023.02.02-02.21.57:019][784]LogTemp: Bone cache synced: 20
+[2023.02.02-02.21.57:482][801]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GhostGang/BP/HotelRoom" FILE="../../../../GhostGangHotel/GhostGang/Content/GhostGang/BP/HotelRoom.uasset" SILENT=true
+[2023.02.02-02.21.57:522][801]LogSavePackage: Moving '../../../../GhostGangHotel/GhostGang/Saved/HotelRoom19EDA8C94A608C79B813568CD2C69E04.tmp' to '../../../../GhostGangHotel/GhostGang/Content/GhostGang/BP/HotelRoom.uasset'
+[2023.02.02-02.21.57:561][801]AssetCheck: New page: Asset Save: HotelRoom
+[2023.02.02-02.21.57:561][801]LogContentValidation: Display: Validating Blueprint /Game/GhostGang/BP/HotelRoom.HotelRoom
+[2023.02.02-02.22.13:181][707]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.02.02-02.22.13:226][707]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.02-02.22.24:897][368]BlueprintLog: New page: Compile HotelRoom
+[2023.02.02-02.22.24:903][368]LogBlueprint: Error: [AssetLog] D:\GhostGangHotel\GhostGang\Content\GhostGang\BP\HotelRoom.uasset: [Compiler] COMPILER ERROR: failed building connection with 'Array of Leap Motion Player Object References is not compatible with Array of BP New Player Man Object References.' at  Get (a copy)
+[2023.02.02-02.22.24:905][368]LogBlueprint: Error: [AssetLog] D:\GhostGangHotel\GhostGang\Content\GhostGang\BP\HotelRoom.uasset: [Compiler] The current value of the ' Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2023.02.02-02.22.25:040][368]LogUObjectHash: Compacting FUObjectHashTables data took   8.96ms
+[2023.02.02-02.22.25:054][368]LogTemp: Bone cache synced: 20
+[2023.02.02-02.22.25:054][368]LogTemp: Bone cache synced: 20
+[2023.02.02-02.22.25:055][368]LogTemp: Bone cache synced: 20
+[2023.02.02-02.22.25:055][368]LogTemp: Bone cache synced: 20
+[2023.02.02-02.22.25:064][368]LogTemp: Bone cache synced: 20
+[2023.02.02-02.22.25:065][368]LogTemp: Bone cache synced: 20
+[2023.02.02-02.22.25:065][368]LogTemp: Bone cache synced: 20
+[2023.02.02-02.22.25:065][368]LogTemp: Bone cache synced: 20
+[2023.02.02-02.22.25:081][368]LogTemp: Bone cache synced: 20
+[2023.02.02-02.22.25:081][368]LogTemp: Bone cache synced: 20
+[2023.02.02-02.22.25:082][368]LogTemp: Bone cache synced: 20
+[2023.02.02-02.22.25:082][368]LogTemp: Bone cache synced: 20
+[2023.02.02-02.22.25:092][368]LogTemp: Bone cache synced: 20
+[2023.02.02-02.22.25:092][368]LogTemp: Bone cache synced: 20
+[2023.02.02-02.22.25:093][368]LogTemp: Bone cache synced: 20
+[2023.02.02-02.22.25:093][368]LogTemp: Bone cache synced: 20
+[2023.02.02-02.22.25:690][392]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GhostGang/BP/HotelRoom" FILE="../../../../GhostGangHotel/GhostGang/Content/GhostGang/BP/HotelRoom.uasset" SILENT=true
+[2023.02.02-02.22.25:720][392]LogSavePackage: Moving '../../../../GhostGangHotel/GhostGang/Saved/HotelRoomF5A82C40441833246DF90FADFEE1EFAD.tmp' to '../../../../GhostGangHotel/GhostGang/Content/GhostGang/BP/HotelRoom.uasset'
+[2023.02.02-02.22.25:754][392]AssetCheck: New page: Asset Save: HotelRoom
+[2023.02.02-02.22.25:754][392]LogContentValidation: Display: Validating Blueprint /Game/GhostGang/BP/HotelRoom.HotelRoom
+[2023.02.02-02.22.58:295][ 56]BlueprintLog: New page: Compile HotelRoom
+[2023.02.02-02.22.58:445][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   7.62ms
+[2023.02.02-02.22.58:467][ 56]LogTemp: Bone cache synced: 20
+[2023.02.02-02.22.58:467][ 56]LogTemp: Bone cache synced: 20
+[2023.02.02-02.22.58:468][ 56]LogTemp: Bone cache synced: 20
+[2023.02.02-02.22.58:468][ 56]LogTemp: Bone cache synced: 20
+[2023.02.02-02.22.58:478][ 56]LogTemp: Bone cache synced: 20
+[2023.02.02-02.22.58:478][ 56]LogTemp: Bone cache synced: 20
+[2023.02.02-02.22.58:478][ 56]LogTemp: Bone cache synced: 20
+[2023.02.02-02.22.58:478][ 56]LogTemp: Bone cache synced: 20
+[2023.02.02-02.22.58:501][ 56]LogTemp: Bone cache synced: 20
+[2023.02.02-02.22.58:501][ 56]LogTemp: Bone cache synced: 20
+[2023.02.02-02.22.58:502][ 56]LogTemp: Bone cache synced: 20
+[2023.02.02-02.22.58:502][ 56]LogTemp: Bone cache synced: 20
+[2023.02.02-02.22.58:511][ 56]LogTemp: Bone cache synced: 20
+[2023.02.02-02.22.58:511][ 56]LogTemp: Bone cache synced: 20
+[2023.02.02-02.22.58:511][ 56]LogTemp: Bone cache synced: 20
+[2023.02.02-02.22.58:511][ 56]LogTemp: Bone cache synced: 20
+[2023.02.02-02.22.59:054][ 79]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GhostGang/BP/HotelRoom" FILE="../../../../GhostGangHotel/GhostGang/Content/GhostGang/BP/HotelRoom.uasset" SILENT=true
+[2023.02.02-02.22.59:086][ 79]LogSavePackage: Moving '../../../../GhostGangHotel/GhostGang/Saved/HotelRoom25C6953F436DB64639ED01A97F1E3965.tmp' to '../../../../GhostGangHotel/GhostGang/Content/GhostGang/BP/HotelRoom.uasset'
+[2023.02.02-02.22.59:123][ 79]AssetCheck: New page: Asset Save: HotelRoom
+[2023.02.02-02.22.59:123][ 79]LogContentValidation: Display: Validating Blueprint /Game/GhostGang/BP/HotelRoom.HotelRoom
+[2023.02.02-02.24.17:259][324]BlueprintLog: New page: Compile HotelRoom
+[2023.02.02-02.24.17:419][324]LogUObjectHash: Compacting FUObjectHashTables data took   8.95ms
+[2023.02.02-02.24.17:452][324]LogTemp: Bone cache synced: 20
+[2023.02.02-02.24.17:452][324]LogTemp: Bone cache synced: 20
+[2023.02.02-02.24.17:453][324]LogTemp: Bone cache synced: 20
+[2023.02.02-02.24.17:453][324]LogTemp: Bone cache synced: 20
+[2023.02.02-02.24.17:461][324]LogTemp: Bone cache synced: 20
+[2023.02.02-02.24.17:461][324]LogTemp: Bone cache synced: 20
+[2023.02.02-02.24.17:462][324]LogTemp: Bone cache synced: 20
+[2023.02.02-02.24.17:462][324]LogTemp: Bone cache synced: 20
+[2023.02.02-02.24.17:489][324]LogTemp: Bone cache synced: 20
+[2023.02.02-02.24.17:489][324]LogTemp: Bone cache synced: 20
+[2023.02.02-02.24.17:489][324]LogTemp: Bone cache synced: 20
+[2023.02.02-02.24.17:489][324]LogTemp: Bone cache synced: 20
+[2023.02.02-02.24.17:500][324]LogTemp: Bone cache synced: 20
+[2023.02.02-02.24.17:500][324]LogTemp: Bone cache synced: 20
+[2023.02.02-02.24.17:501][324]LogTemp: Bone cache synced: 20
+[2023.02.02-02.24.17:501][324]LogTemp: Bone cache synced: 20
+[2023.02.02-02.24.17:851][334]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GhostGang/BP/HotelRoom" FILE="../../../../GhostGangHotel/GhostGang/Content/GhostGang/BP/HotelRoom.uasset" SILENT=true
+[2023.02.02-02.24.17:884][334]LogSavePackage: Moving '../../../../GhostGangHotel/GhostGang/Saved/HotelRoomC6D3BFC84F7369DF3E98B9AF4A70E03A.tmp' to '../../../../GhostGangHotel/GhostGang/Content/GhostGang/BP/HotelRoom.uasset'
+[2023.02.02-02.24.17:933][334]AssetCheck: New page: Asset Save: HotelRoom
+[2023.02.02-02.24.17:933][334]LogContentValidation: Display: Validating Blueprint /Game/GhostGang/BP/HotelRoom.HotelRoom
+[2023.02.02-02.24.49:254][102]BlueprintLog: New page: Compile HotelRoom
+[2023.02.02-02.24.49:435][102]LogUObjectHash: Compacting FUObjectHashTables data took   8.87ms
+[2023.02.02-02.24.49:459][102]LogTemp: Bone cache synced: 20
+[2023.02.02-02.24.49:459][102]LogTemp: Bone cache synced: 20
+[2023.02.02-02.24.49:460][102]LogTemp: Bone cache synced: 20
+[2023.02.02-02.24.49:460][102]LogTemp: Bone cache synced: 20
+[2023.02.02-02.24.49:471][102]LogTemp: Bone cache synced: 20
+[2023.02.02-02.24.49:471][102]LogTemp: Bone cache synced: 20
+[2023.02.02-02.24.49:472][102]LogTemp: Bone cache synced: 20
+[2023.02.02-02.24.49:472][102]LogTemp: Bone cache synced: 20
+[2023.02.02-02.24.49:496][102]LogTemp: Bone cache synced: 20
+[2023.02.02-02.24.49:496][102]LogTemp: Bone cache synced: 20
+[2023.02.02-02.24.49:496][102]LogTemp: Bone cache synced: 20
+[2023.02.02-02.24.49:496][102]LogTemp: Bone cache synced: 20
+[2023.02.02-02.24.49:507][102]LogTemp: Bone cache synced: 20
+[2023.02.02-02.24.49:507][102]LogTemp: Bone cache synced: 20
+[2023.02.02-02.24.49:508][102]LogTemp: Bone cache synced: 20
+[2023.02.02-02.24.49:508][102]LogTemp: Bone cache synced: 20
+[2023.02.02-02.24.49:928][117]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GhostGang/BP/HotelRoom" FILE="../../../../GhostGangHotel/GhostGang/Content/GhostGang/BP/HotelRoom.uasset" SILENT=true
+[2023.02.02-02.24.49:965][117]LogSavePackage: Moving '../../../../GhostGangHotel/GhostGang/Saved/HotelRoom53E9752744CD9AB2935418934A3AF599.tmp' to '../../../../GhostGangHotel/GhostGang/Content/GhostGang/BP/HotelRoom.uasset'
+[2023.02.02-02.24.50:020][117]AssetCheck: New page: Asset Save: HotelRoom
+[2023.02.02-02.24.50:020][117]LogContentValidation: Display: Validating Blueprint /Game/GhostGang/BP/HotelRoom.HotelRoom
+[2023.02.02-02.24.52:056][226]BlueprintLog: New page: Compile HotelRoom
+[2023.02.02-02.24.52:217][226]LogUObjectHash: Compacting FUObjectHashTables data took   8.10ms
+[2023.02.02-02.24.52:240][226]LogTemp: Bone cache synced: 20
+[2023.02.02-02.24.52:240][226]LogTemp: Bone cache synced: 20
+[2023.02.02-02.24.52:241][226]LogTemp: Bone cache synced: 20
+[2023.02.02-02.24.52:241][226]LogTemp: Bone cache synced: 20
+[2023.02.02-02.24.52:253][226]LogTemp: Bone cache synced: 20
+[2023.02.02-02.24.52:253][226]LogTemp: Bone cache synced: 20
+[2023.02.02-02.24.52:254][226]LogTemp: Bone cache synced: 20
+[2023.02.02-02.24.52:254][226]LogTemp: Bone cache synced: 20
+[2023.02.02-02.24.52:276][226]LogTemp: Bone cache synced: 20
+[2023.02.02-02.24.52:276][226]LogTemp: Bone cache synced: 20
+[2023.02.02-02.24.52:276][226]LogTemp: Bone cache synced: 20
+[2023.02.02-02.24.52:276][226]LogTemp: Bone cache synced: 20
+[2023.02.02-02.24.52:288][226]LogTemp: Bone cache synced: 20
+[2023.02.02-02.24.52:288][226]LogTemp: Bone cache synced: 20
+[2023.02.02-02.24.52:289][226]LogTemp: Bone cache synced: 20
+[2023.02.02-02.24.52:289][226]LogTemp: Bone cache synced: 20
+[2023.02.02-02.24.52:866][250]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GhostGang/BP/HotelRoom" FILE="../../../../GhostGangHotel/GhostGang/Content/GhostGang/BP/HotelRoom.uasset" SILENT=true
+[2023.02.02-02.24.52:902][250]LogSavePackage: Moving '../../../../GhostGangHotel/GhostGang/Saved/HotelRoom3AD3D47041FDE3189A69F496D6B2CCAC.tmp' to '../../../../GhostGangHotel/GhostGang/Content/GhostGang/BP/HotelRoom.uasset'
+[2023.02.02-02.24.52:939][250]AssetCheck: New page: Asset Save: HotelRoom
+[2023.02.02-02.24.52:939][250]LogContentValidation: Display: Validating Blueprint /Game/GhostGang/BP/HotelRoom.HotelRoom
+[2023.02.02-02.24.53:822][294]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.02.02-02.24.53:833][294]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.02-02.24.53:833][294]PIE: New page: PIE session: Level01 (2 Feb 2023, 02:24:53)
+[2023.02.02-02.24.53:834][294]LogPlayLevel: Creating play world package: /Game/GhostGang/Levels/UEDPIE_0_Level01
+[2023.02.02-02.24.53:860][294]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025648s)
+[2023.02.02-02.24.53:861][294]LogAIModule: Creating AISystem for world Level01
+[2023.02.02-02.24.53:862][294]LogPlayLevel: PIE: World Init took: (0.002111s)
+[2023.02.02-02.24.53:862][294]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GhostGang/Levels/Level01.Level01 to /Game/GhostGang/Levels/UEDPIE_0_Level01.Level01 (0.028023s)
+[2023.02.02-02.24.53:959][294]LogUObjectHash: Compacting FUObjectHashTables data took   7.67ms
+[2023.02.02-02.24.53:961][294]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2023.02.02-02.24.53:961][294]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.02-02.24.53:961][294]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.02-02.24.53:961][294]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.02-02.24.53:961][294]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.02-02.24.53:961][294]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.02-02.24.53:961][294]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.02-02.24.53:961][294]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.02-02.24.53:961][294]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.02-02.24.53:962][294]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.02-02.24.53:962][294]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.02-02.24.53:962][294]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.02-02.24.53:962][294]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.02-02.24.53:968][294]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.02-02.24.53:968][294]LogAudioMixer: Display: 1: FrontRight
+[2023.02.02-02.24.53:983][294]LogAudioMixer: Display: Using Audio Device Headphones (2- Hesh Evo)
+[2023.02.02-02.24.53:983][294]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.02-02.24.53:983][294]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.02-02.24.53:983][294]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.02-02.24.53:984][294]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.02-02.24.53:984][294]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.02-02.24.53:984][294]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.02-02.24.53:986][294]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.02-02.24.53:986][294]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.02-02.24.53:986][294]LogInit: FAudioDevice initialized.
+[2023.02.02-02.24.53:986][294]LogAudio: Display: Audio Device (ID: 8) registered with world 'Level01'.
+[2023.02.02-02.24.54:047][294]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.02-02.24.54:048][294]LogLoad: Game class is 'GhostMode_C'
+[2023.02.02-02.24.54:052][294]LogWorld: Bringing World /Game/GhostGang/Levels/UEDPIE_0_Level01.Level01 up for play (max tick rate 60) at 2023.02.02-02.24.54
+[2023.02.02-02.24.54:053][294]LogWorld: Bringing up level for play took: 0.003861
+[2023.02.02-02.24.54:053][294]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2023.02.02-02.24.54:059][294]LogTemp: Bone cache synced: 20
+[2023.02.02-02.24.54:059][294]LogTemp: Bone cache synced: 20
+[2023.02.02-02.24.54:059][294]LogTemp: Bone cache synced: 20
+[2023.02.02-02.24.54:060][294]LogTemp: Bone cache synced: 20
+[2023.02.02-02.24.54:115][294]PIE: Server logged in
+[2023.02.02-02.24.54:117][294]PIE: Play in editor total start time 0.286 seconds.
+[2023.02.02-02.25.03:331][452]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.02-02.25.03:331][452]LogWorld: BeginTearingDown for /Game/GhostGang/Levels/UEDPIE_0_Level01
+[2023.02.02-02.25.03:332][452]LogSlate: Window 'GhostGang Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2023.02.02-02.25.03:403][452]LogWorld: UWorld::CleanupWorld for Level01, bSessionEnded=true, bCleanupResources=true
+[2023.02.02-02.25.03:409][452]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.02-02.25.03:427][452]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.02-02.25.03:442][452]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.02-02.25.03:540][452]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.02-02.25.03:541][452]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.02-02.25.03:543][452]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.02-02.25.03:555][452]LogUObjectHash: Compacting FUObjectHashTables data took   4.96ms
+[2023.02.02-02.25.03:593][453]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2023.02.02-02.25.12:392][938]LogSlate: Took 0.000283 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.02.02-02.25.17:503][145]LogSlate: Window 'Change Variable Type' being destroyed
