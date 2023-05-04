@@ -31,17 +31,17 @@
 /I Runtime
 /I Runtime\TraceLog\Public
 /I Runtime\Core\Public
-/I "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\INCLUDE"
+/I "C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE"
 /I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\winrt"
-/I F:\github\GhostGang\GhostGang\Intermediate\Build\Win64\GhostGang\Development\Core
-/Yc"F:\github\GhostGang\GhostGang\Intermediate\Build\Win64\GhostGang\Development\Core\SharedPCH.Core.h"
-/Fp"F:\github\GhostGang\GhostGang\Intermediate\Build\Win64\GhostGang\Development\Core\SharedPCH.Core.h.pch"
-"F:\github\GhostGang\GhostGang\Intermediate\Build\Win64\GhostGang\Development\Core\SharedPCH.Core.cpp"
-/Fo"F:\github\GhostGang\GhostGang\Intermediate\Build\Win64\GhostGang\Development\Core\SharedPCH.Core.h.obj"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.20348.0\ucrt"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.20348.0\shared"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.20348.0\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.20348.0\winrt"
+/I C:\Users\s4002675\Documents\GitHub\GhostGangHotel\GhostGang\Intermediate\Build\Win64\GhostGang\Development\Core
+/Yc"C:\Users\s4002675\Documents\GitHub\GhostGangHotel\GhostGang\Intermediate\Build\Win64\GhostGang\Development\Core\SharedPCH.Core.h"
+/Fp"C:\Users\s4002675\Documents\GitHub\GhostGangHotel\GhostGang\Intermediate\Build\Win64\GhostGang\Development\Core\SharedPCH.Core.h.pch"
+"C:\Users\s4002675\Documents\GitHub\GhostGangHotel\GhostGang\Intermediate\Build\Win64\GhostGang\Development\Core\SharedPCH.Core.cpp"
+/Fo"C:\Users\s4002675\Documents\GitHub\GhostGangHotel\GhostGang\Intermediate\Build\Win64\GhostGang\Development\Core\SharedPCH.Core.h.obj"
 /TP
 /GR-
 /W4
